@@ -1,16 +1,15 @@
 package libbysinglelib
 
 import (
+	"bytes"
 	"encoding/json"
-	"errors"
 	"fmt"
+	"io"
 	"log"
 	"net/http"
 	"net/url"
 	"strconv"
 	"time"
-
-	"github.com/invictus8957/library-search/internal/pkg/libby"
 )
 
 const defaultHTTPTimeout = 5 * time.Second
@@ -30,42 +29,48 @@ var constantSearchQueryParams = url.Values{
 	},
 }
 
+type LibbySearchResponseItem struct {
+	Title             string                  `json:"title"`                // short title
+	SortTitle         string                  `json:"sortTitle"`            // full title of multi-phrase
+	Author            string                  `json:"firstCreatorName"`     // First Last
+	SortAuthor        string                  `json:"firstCreatorSortName"` // last, first
+	IsOwned           bool                    `json:"isOwned"`              // if they have a copy
+	OwnedCopies       int                     `json:"ownedCopies"`
+	AvailableCopies   int                     `json:"availableCopies"`
+	HoldsCount        int                     `json:"holdsCount"`
+	EstimatedWaitDays int                     `json:"estimatedWaitDays"`
+	Type              libbySearchResponseType `json:"type"` // audiobook or ebook
+}
+
+type Lib struct {
+	LibID            string
+	librarySearchURL string
+	httpClient       *http.Client
+}
+
 type libbySearchResponseLinks struct {
-	Self libbyPageInfo `json:"self"`
-	Last libbyPageInfo `json:"last"`
+	Self *libbyPageInfo `json:"self"`
+	Next *libbyPageInfo `json:"next"`
 }
 
 type libbyPageInfo struct {
-	Page *int `json:"page"`
+	Page int `json:"page"`
 }
 
 type libbySearchResponse struct {
-	Items []libbySearchResponseItem `json:"items"`
+	Items []LibbySearchResponseItem `json:"items"`
 	Links libbySearchResponseLinks  `json:"links"`
 }
 
-type libbySearchResponseItem struct {
-	Title             string `json:"title"`                // short title
-	SortTitle         string `json:"sortTitle"`            // full title of multi-phrase
-	Author            string `json:"firstCreatorName"`     // First Last
-	SortAuthor        string `json:"firstCreatorSortName"` // last, first
-	IsOwned           bool   `json:"isOwned"`              // if they have a copy
-	OwnedCopies       int    `json:"ownedCopies"`
-	AvailableCopies   int    `json:"availableCopies"`
-	HoldsCount        int    `json:"holdsCount"`
-	EstimatedWaitDays int    `json:"estimatedWaitDays"`
+type libbySearchResponseType struct {
+	ID string `json:"id"`
 }
 
-type libbySingleLib struct {
-	LibrarySearchURL  string
-	LibraryIdentifier string
-	httpClient        *http.Client
-}
+func NewLibbySingleLib(libraryID string) *Lib {
 
-func NewLibbySingleLib(libSearchURL string) *libbySingleLib {
-
-	lsb := &libbySingleLib{
-		LibrarySearchURL: libSearchURL,
+	lsb := &Lib{
+		LibID:            libraryID,
+		librarySearchURL: "https://thunder.api.overdrive.com/v2/libraries/" + libraryID + "/media",
 	}
 	lsb.httpClient = &http.Client{
 		Timeout: defaultHTTPTimeout,
@@ -73,19 +78,37 @@ func NewLibbySingleLib(libSearchURL string) *libbySingleLib {
 	return lsb
 }
 
-func (*libbySingleLib) SearchByAuthor(string) ([]libby.LibbyResult, error) {
-	return nil, errors.ErrUnsupported
+func (lsb *Lib) Search(q string) ([]LibbySearchResponseItem, error) {
+	log.Println("Beginning top level single lib search.")
+	return lsb.searchGetAllPages(q)
 }
 
-func (*libbySingleLib) SearchByTitle(string) ([]libby.LibbyResult, error) {
-	return nil, errors.ErrUnsupported
+func (lsb *Lib) searchGetAllPages(q string) ([]LibbySearchResponseItem, error) {
+	results, links, err := lsb.singlePageSearchRequest(q, 1, maxPageSize)
+	if err != nil {
+		return nil, err
+	}
+	for {
+		if links.Next != nil {
+			intermediateResults, intermediateLinks, err := lsb.singlePageSearchRequest(q, links.Next.Page, maxPageSize)
+			if err != nil {
+				return nil, err
+			}
+			log.Printf("intermediate links: %v", intermediateLinks.Self.Page)
+			links = intermediateLinks
+			results = append(results, intermediateResults...)
+			continue
+		}
+		break
+	}
+	return results, nil
 }
 
-func (lsb *libbySingleLib) singlePageSearchRequest(q string, pageNum int, pageSize int) ([]libbySearchResponseItem, *libbySearchResponseLinks, error) {
+func (lsb *Lib) singlePageSearchRequest(q string, pageNum int, pageSize int) ([]LibbySearchResponseItem, *libbySearchResponseLinks, error) {
 	if pageSize > maxPageSize {
 		return nil, nil, fmt.Errorf("request page size of %v exceeded max page size of %v", pageSize, maxPageSize)
 	}
-	r, err := http.NewRequest("GET", lsb.LibrarySearchURL, nil)
+	r, err := http.NewRequest("GET", lsb.librarySearchURL, nil)
 	if err != nil {
 		log.Printf("error creating single page search request, %s\n", err)
 		return nil, nil, err
@@ -100,6 +123,7 @@ func (lsb *libbySingleLib) singlePageSearchRequest(q string, pageNum int, pageSi
 	queryVals.Add("query", q)
 	queryVals.Add(pageNumberParamName, strconv.Itoa(pageNum))
 	queryVals.Add(pageSizeParamName, strconv.Itoa(pageSize))
+	log.Printf("query vals: %v", queryVals)
 
 	resp, err := lsb.httpClient.Do(r)
 	if err != nil {
@@ -107,8 +131,13 @@ func (lsb *libbySingleLib) singlePageSearchRequest(q string, pageNum int, pageSi
 		return nil, nil, err
 	}
 	defer resp.Body.Close()
+	rawBody, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return nil, nil, err
+	}
+	log.Printf("raw body: %v", string(rawBody))
 	var data libbySearchResponse
-	err = json.NewDecoder(resp.Body).Decode(&data)
+	err = json.NewDecoder(bytes.NewReader(rawBody)).Decode(&data)
 	if err != nil {
 		return nil, nil, err
 	}

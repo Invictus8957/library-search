@@ -1,9 +1,17 @@
 package main
 
 import (
-	"fmt"
+	"log"
+
+	"github.com/invictus8957/library-search/internal/pkg/libby"
 )
 
 func main() {
-	fmt.Println("hello world")
+	const libID = "lexpublib"
+	l := libby.NewLibby([]string{libID})
+	results, err := l.Search("robert henderson")
+	if err != nil {
+		log.Fatalf("Error searching for results in libby: %v", err)
+	}
+	log.Printf("Results: %v", results)
 }
