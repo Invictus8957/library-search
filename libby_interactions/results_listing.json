@@ -1,0 +1,1560 @@
+{
+  "queryKeys": {},
+  "facets": {
+    "availability": {
+      "name": "Availability",
+      "items": [
+        {
+          "isApplied": true,
+          "totalItems": 5,
+          "totalItemsText": "5",
+          "id": "all-titles",
+          "name": "All titles"
+        },
+        {
+          "isApplied": false,
+          "totalItemsText": "",
+          "id": "available-now",
+          "name": "Available now"
+        }
+      ]
+    },
+    "mediaTypes": {
+      "name": "Media type",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 3,
+          "totalItemsText": "3",
+          "id": "audiobook",
+          "name": "Audiobook"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "ebook",
+          "name": "eBook"
+        }
+      ]
+    },
+    "formats": {
+      "name": "Format",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "ebook-kindle",
+          "name": "Kindle Book"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "ebook-overdrive",
+          "name": "OverDrive Read"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "ebook-epub-adobe",
+          "name": "EPUB eBook"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 3,
+          "totalItemsText": "3",
+          "id": "audiobook-overdrive",
+          "name": "OverDrive Listen audiobook"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 3,
+          "totalItemsText": "3",
+          "id": "audiobook-mp3",
+          "name": "MP3 audiobook"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "ebook-kobo",
+          "name": "Kobo eBook"
+        }
+      ]
+    },
+    "maturityLevels": {
+      "name": "Audience",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 5,
+          "totalItemsText": "5",
+          "id": "generalcontent",
+          "name": "General adult"
+        }
+      ]
+    },
+    "subjects": {
+      "name": "Subject",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 3,
+          "totalItemsText": "3",
+          "id": "111",
+          "name": "Nonfiction"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 3,
+          "totalItemsText": "3",
+          "id": "7",
+          "name": "Biography & Autobiography"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "24",
+          "name": "Fantasy"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "26",
+          "name": "Fiction"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "71",
+          "name": "Psychology"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "56",
+          "name": "Music"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "83",
+          "name": "Sociology"
+        }
+      ]
+    },
+    "bisacCodes": {
+      "name": "Bisac code",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "BIO002020",
+          "name": "BIOGRAPHY & AUTOBIOGRAPHY / Asian & Asian American"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "BIO026000",
+          "name": "BIOGRAPHY & AUTOBIOGRAPHY / Memoirs"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "FIC009010",
+          "name": "Fiction / Fantasy / Contemporary"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "FIC009100",
+          "name": "Fiction / Fantasy / Action & Adventure"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 2,
+          "totalItemsText": "2",
+          "id": "PSY022040",
+          "name": "Psychology / Psychopathology / Post-Traumatic Stress Disorder (PTSD)"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "BIO013000",
+          "name": "Biography & Autobiography / Rich & Famous"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "MUS035000",
+          "name": "Music / Genres & Styles / Rock"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "SOC022000",
+          "name": "Social Science / Popular Culture"
+        }
+      ]
+    },
+    "languages": {
+      "name": "Language",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 5,
+          "totalItemsText": "5",
+          "id": "en",
+          "name": "English"
+        }
+      ]
+    },
+    "boolean": {
+      "name": "Boolean properties",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 5,
+          "totalItemsText": "5",
+          "id": "f",
+          "name": "Does not have audio synchronized text"
+        }
+      ]
+    },
+    "addedDates": {
+      "name": "Date added",
+      "items": []
+    },
+    "atosLevels": {
+      "name": "ATOS Level",
+      "items": []
+    },
+    "lexileScores": {
+      "name": "Lexile Score",
+      "items": []
+    },
+    "interestLevels": {
+      "name": "Interest Level",
+      "items": []
+    },
+    "gradeLevels": {
+      "name": "Text Difficulty",
+      "items": []
+    },
+    "awards": {
+      "name": "Award",
+      "items": []
+    },
+    "jurisdiction": {
+      "name": "Jurisdiction",
+      "items": []
+    },
+    "practiceArea": {
+      "name": "Practice Area",
+      "items": []
+    },
+    "classification": {
+      "name": "Classification",
+      "items": []
+    },
+    "audiobookDuration": {
+      "name": "Audiobook Duration",
+      "items": [
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "8-9",
+          "name": "8.0-9.0"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "10-12",
+          "name": "10.0-12.0"
+        },
+        {
+          "isApplied": false,
+          "totalItems": 1,
+          "totalItemsText": "1",
+          "id": "14-16",
+          "name": "14.0-16.0"
+        }
+      ]
+    },
+    "appliedCount": 0
+  },
+  "sortOptions": [
+    {
+      "isApplied": false,
+      "id": "mostpopular",
+      "name": "Popularity"
+    },
+    {
+      "isApplied": true,
+      "id": "relevance",
+      "name": "Relevance"
+    },
+    {
+      "isApplied": false,
+      "id": "releasedate",
+      "name": "Release date"
+    },
+    {
+      "isApplied": false,
+      "id": "title",
+      "name": "Title"
+    },
+    {
+      "isApplied": false,
+      "id": "author",
+      "name": "Author"
+    },
+    {
+      "isApplied": false,
+      "id": "default",
+      "name": "Publish Date"
+    },
+    {
+      "isApplied": false,
+      "id": "audiobookdurationasc",
+      "name": "Audiobook Duration, Ascending"
+    },
+    {
+      "isApplied": false,
+      "id": "audiobookdurationdsc",
+      "name": "Audiobook Duration, Descending"
+    },
+    {
+      "isApplied": false,
+      "id": "random",
+      "name": "Randomized"
+    },
+    {
+      "isApplied": false,
+      "id": "newlyadded",
+      "name": "Date added"
+    },
+    {
+      "isApplied": false,
+      "id": "lowcirculating",
+      "name": "Low circulating"
+    },
+    {
+      "isApplied": false,
+      "id": "mostpopular-site",
+      "name": "Popularity (library)"
+    }
+  ],
+  "items": [
+    {
+      "reserveId": "774f3ace-0a3a-47b3-a804-f973947e6869",
+      "subjects": [
+        {
+          "id": "7",
+          "name": "Biography & Autobiography"
+        },
+        {
+          "id": "71",
+          "name": "Psychology"
+        },
+        {
+          "id": "111",
+          "name": "Nonfiction"
+        }
+      ],
+      "bisacCodes": [
+        "BIO026000",
+        "PSY022040",
+        "BIO002020"
+      ],
+      "bisac": [
+        {
+          "code": "BIO026000",
+          "description": "BIOGRAPHY & AUTOBIOGRAPHY / Memoirs"
+        },
+        {
+          "code": "PSY022040",
+          "description": "Psychology / Psychopathology / Post-Traumatic Stress Disorder (PTSD)"
+        },
+        {
+          "code": "BIO002020",
+          "description": "BIOGRAPHY & AUTOBIOGRAPHY / Asian & Asian American"
+        }
+      ],
+      "levels": [],
+      "creators": [
+        {
+          "id": 2507353,
+          "name": "Stephanie Foo",
+          "role": "Author",
+          "sortName": "Foo, Stephanie"
+        },
+        {
+          "id": 2507353,
+          "name": "Stephanie Foo",
+          "role": "Narrator",
+          "sortName": "Foo, Stephanie"
+        }
+      ],
+      "languages": [
+        {
+          "id": "en",
+          "name": "English"
+        }
+      ],
+      "imprint": {
+        "id": "61758",
+        "name": "Random House Audio"
+      },
+      "isBundledChild": false,
+      "ratings": {
+        "maturityLevel": {
+          "id": "generalcontent",
+          "name": "General content"
+        },
+        "naughtyScore": {
+          "id": "GeneralContent",
+          "name": "General content"
+        }
+      },
+      "constraints": {
+        "isDisneyEulaRequired": false
+      },
+      "reviewCounts": {
+        "premium": 2,
+        "publisherSupplier": 0
+      },
+      "isAvailable": false,
+      "isPreReleaseTitle": false,
+      "estimatedReleaseDate": "2022-02-22T05:00:00Z",
+      "sample": {
+        "href": "https://samples.overdrive.com/?crid=774f3ace-0a3a-47b3-a804-f973947e6869&.epub-sample.overdrive.com"
+      },
+      "publisher": {
+        "id": "1686",
+        "name": "Books on Tape"
+      },
+      "subtitle": "A Memoir of Healing from Complex Trauma",
+      "description": "<b><i>NEW YORK TIMES </i>BESTSELLER &bull; A searing memoir of reckoning and healing by acclaimed journalist Stephanie Foo, investigating the little-understood science behind complex PTSD and how it has shaped her life<br>&ldquo;Achingly exquisite . . . providing real hope for those who long to heal.&rdquo;&mdash;Lori Gottlieb, <i>New York Times</i> bestselling author of <i>Maybe You Should Talk to Someone</i></b><br><b>ONE OF THE BEST BOOKS OF THE YEAR: <i>The Washington Post, Cosmopolitan, </i>NPR, <i>Mashable, She Reads, Publishers Weekly</i></b><br>By age thirty, Stephanie Foo was successful on paper: She had her dream job as an award-winning radio producer at <i>This American Life </i>and a loving boyfriend. But behind her office door,&#160;she was having panic attacks and sobbing at her desk every morning. After years of questioning what was wrong with herself, she was diagnosed with complex PTSD&mdash;a condition that occurs when trauma happens continuously, over the course of years.<br>Both of Foo&rsquo;s parents abandoned her when she was a teenager, after years of physical and verbal abuse and neglect. She thought she&rsquo;d moved on, but her new diagnosis illuminated the way her past continued to threaten her health, relationships, and career. She found limited resources to help her, so Foo set out to heal herself, and to map her experiences onto the scarce literature about C-PTSD.<br>In this deeply personal and thoroughly researched account, Foo interviews scientists and psychologists and tries a variety of innovative therapies. She returns to her hometown of San Jose, California, to investigate the effects of immigrant trauma on the community, and she uncovers family secrets in the country of her birth, Malaysia, to learn how trauma can be inherited through generations. Ultimately, she discovers that you don&rsquo;t move on from trauma&mdash;but you can learn to move with it.<br>Powerful, enlightening, and hopeful,<i> What My Bones Know </i>is a brave narrative that reckons with the hold of the past over the present, the mind over the body&mdash;and examines one woman&rsquo;s ability to reclaim agency from her trauma.",
+      "availableCopies": 0,
+      "ownedCopies": 3,
+      "luckyDayAvailableCopies": 0,
+      "luckyDayOwnedCopies": 0,
+      "holdsCount": 8,
+      "holdsRatio": 3,
+      "estimatedWaitDays": 42,
+      "isFastlane": false,
+      "availabilityType": "normal",
+      "isRecommendableToLibrary": true,
+      "isOwned": true,
+      "isHoldable": true,
+      "isAdvantageFiltered": false,
+      "visitorEligible": false,
+      "juvenileEligible": false,
+      "youngAdultEligible": false,
+      "contentAccessLevels": 0,
+      "classifications": {},
+      "type": {
+        "id": "audiobook",
+        "name": "Audiobook"
+      },
+      "covers": {
+        "cover150Wide": {
+          "href": "https://img3.od-cdn.com/ImageType-150/1191-1/774/F3A/CE/{774F3ACE-0A3A-47B3-A804-F973947E6869}Img150.jpg",
+          "height": 200,
+          "width": 150,
+          "primaryColor": {
+            "hex": "#1C153E",
+            "rgb": {
+              "red": 28,
+              "green": 21,
+              "blue": 62
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover300Wide": {
+          "href": "https://img3.od-cdn.com/ImageType-400/1191-1/774/F3A/CE/{774F3ACE-0A3A-47B3-A804-F973947E6869}Img400.jpg",
+          "height": 400,
+          "width": 300,
+          "primaryColor": {
+            "hex": "#1C153E",
+            "rgb": {
+              "red": 28,
+              "green": 21,
+              "blue": 62
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover510Wide": {
+          "href": "https://img3.od-cdn.com/ImageType-100/1191-1/{774F3ACE-0A3A-47B3-A804-F973947E6869}Img100.jpg",
+          "height": 680,
+          "width": 510,
+          "primaryColor": {
+            "hex": "#1C153E",
+            "rgb": {
+              "red": 28,
+              "green": 21,
+              "blue": 62
+            }
+          },
+          "isPlaceholderImage": false
+        }
+      },
+      "id": "6328996",
+      "firstCreatorName": "Stephanie Foo",
+      "firstCreatorId": 2507353,
+      "firstCreatorSortName": "Foo, Stephanie",
+      "title": "What My Bones Know",
+      "sortTitle": "What My Bones Know A Memoir of Healing from Complex Trauma",
+      "starRating": 4.3,
+      "starRatingCount": 183,
+      "edition": "Unabridged",
+      "publishDate": "2022-02-22T00:00:00Z",
+      "publishDateText": "02/22/2022",
+      "formats": [
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9780593507247"
+            },
+            {
+              "type": "LibraryISBN",
+              "value": "9780593507254"
+            }
+          ],
+          "rights": [],
+          "fileSize": 289380932,
+          "onSaleDateUtc": "2022-02-22T05:00:00+00:00",
+          "duration": "10:02:52",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9780593507254",
+          "bundledContent": [],
+          "sample": {
+            "href": "https://samples.overdrive.com/?crid=774f3ace-0a3a-47b3-a804-f973947e6869&.epub-sample.overdrive.com"
+          },
+          "fulfillmentType": "bifocal",
+          "id": "audiobook-overdrive",
+          "name": "OverDrive Listen audiobook"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9780593507247"
+            },
+            {
+              "type": "LibraryISBN",
+              "value": "9780593507254"
+            }
+          ],
+          "rights": [],
+          "fileSize": 289415908,
+          "onSaleDateUtc": "2022-02-22T05:00:00+00:00",
+          "partCount": 9,
+          "duration": "10:03:46",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9780593507254",
+          "bundledContent": [],
+          "fulfillmentType": "odm",
+          "id": "audiobook-mp3",
+          "name": "MP3 audiobook"
+        }
+      ],
+      "publisherAccount": {
+        "id": "2792",
+        "name": "Books on Tape"
+      }
+    },
+    {
+      "reserveId": "4474546e-f5eb-462c-9214-c1f24483ffa1",
+      "subjects": [
+        {
+          "id": "7",
+          "name": "Biography & Autobiography"
+        },
+        {
+          "id": "71",
+          "name": "Psychology"
+        },
+        {
+          "id": "111",
+          "name": "Nonfiction"
+        }
+      ],
+      "bisacCodes": [
+        "BIO026000",
+        "PSY022040",
+        "BIO002020"
+      ],
+      "bisac": [
+        {
+          "code": "BIO026000",
+          "description": "BIOGRAPHY & AUTOBIOGRAPHY / Memoirs"
+        },
+        {
+          "code": "PSY022040",
+          "description": "Psychology / Psychopathology / Post-Traumatic Stress Disorder (PTSD)"
+        },
+        {
+          "code": "BIO002020",
+          "description": "BIOGRAPHY & AUTOBIOGRAPHY / Asian & Asian American"
+        }
+      ],
+      "levels": [],
+      "creators": [
+        {
+          "id": 2507353,
+          "name": "Stephanie Foo",
+          "role": "Author",
+          "sortName": "Foo, Stephanie"
+        }
+      ],
+      "languages": [
+        {
+          "id": "en",
+          "name": "English"
+        }
+      ],
+      "imprint": {
+        "id": "821",
+        "name": "Ballantine Books"
+      },
+      "isBundledChild": false,
+      "ratings": {
+        "maturityLevel": {
+          "id": "generalcontent",
+          "name": "General content"
+        },
+        "naughtyScore": {
+          "id": "GeneralContent",
+          "name": "General content"
+        }
+      },
+      "constraints": {
+        "isDisneyEulaRequired": false
+      },
+      "reviewCounts": {
+        "premium": 4,
+        "publisherSupplier": 0
+      },
+      "isAvailable": false,
+      "isPreReleaseTitle": false,
+      "estimatedReleaseDate": "2022-02-22T05:00:00Z",
+      "sample": {
+        "href": "https://samples.overdrive.com/?crid=4474546e-f5eb-462c-9214-c1f24483ffa1&.epub-sample.overdrive.com"
+      },
+      "publisher": {
+        "id": "1054",
+        "name": "Random House Publishing Group"
+      },
+      "subtitle": "A Memoir of Healing from Complex Trauma",
+      "description": "<b><i>NEW YORK TIMES </i>BESTSELLER &bull; A searing memoir of reckoning and healing by acclaimed journalist Stephanie Foo, investigating the little-understood science behind complex PTSD and how it has shaped her life<br>&ldquo;Achingly exquisite . . . providing real hope for those who long to heal.&rdquo;&mdash;Lori Gottlieb, <i>New York Times</i> bestselling author of <i>Maybe You Should Talk to Someone</i></b><br><b>ONE OF THE BEST BOOKS OF THE YEAR: <i>The Washington Post, Cosmopolitan, </i>NPR, <i>Mashable, She Reads, Publishers Weekly</i></b><br>By age thirty, Stephanie Foo was successful on paper: She had her dream job as an award-winning radio producer at <i>This American Life </i>and a loving boyfriend. But behind her office door,&#160;she was having panic attacks and sobbing at her desk every morning. After years of questioning what was wrong with herself, she was diagnosed with complex PTSD&mdash;a condition that occurs when trauma happens continuously, over the course of years.<br>Both of Foo&rsquo;s parents abandoned her when she was a teenager, after years of physical and verbal abuse and neglect. She thought she&rsquo;d moved on, but her new diagnosis illuminated the way her past continued to threaten her health, relationships, and career. She found limited resources to help her, so Foo set out to heal herself, and to map her experiences onto the scarce literature about C-PTSD.<br>In this deeply personal and thoroughly researched account, Foo interviews scientists and psychologists and tries a variety of innovative therapies. She returns to her hometown of San Jose, California, to investigate the effects of immigrant trauma on the community, and she uncovers family secrets in the country of her birth, Malaysia, to learn how trauma can be inherited through generations. Ultimately, she discovers that you don&rsquo;t move on from trauma&mdash;but you can learn to move with it.<br>Powerful, enlightening, and hopeful,<i> What My Bones Know </i>is a brave narrative that reckons with the hold of the past over the present, the mind over the body&mdash;and examines one woman&rsquo;s ability to reclaim agency from her trauma.",
+      "availableCopies": 0,
+      "ownedCopies": 2,
+      "luckyDayAvailableCopies": 0,
+      "luckyDayOwnedCopies": 0,
+      "holdsCount": 5,
+      "holdsRatio": 3,
+      "estimatedWaitDays": 42,
+      "isFastlane": false,
+      "availabilityType": "normal",
+      "isRecommendableToLibrary": true,
+      "isOwned": true,
+      "isHoldable": true,
+      "isAdvantageFiltered": false,
+      "visitorEligible": false,
+      "juvenileEligible": false,
+      "youngAdultEligible": false,
+      "contentAccessLevels": 0,
+      "classifications": {},
+      "type": {
+        "id": "ebook",
+        "name": "eBook"
+      },
+      "covers": {
+        "cover150Wide": {
+          "href": "https://img1.od-cdn.com/ImageType-150/0111-1/{4474546E-F5EB-462C-9214-C1F24483FFA1}IMG150.JPG",
+          "height": 200,
+          "width": 150,
+          "primaryColor": {
+            "hex": "#19173E",
+            "rgb": {
+              "red": 25,
+              "green": 23,
+              "blue": 62
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover300Wide": {
+          "href": "https://img2.od-cdn.com/ImageType-400/0111-1/{4474546E-F5EB-462C-9214-C1F24483FFA1}IMG400.JPG",
+          "height": 400,
+          "width": 300,
+          "primaryColor": {
+            "hex": "#19173E",
+            "rgb": {
+              "red": 25,
+              "green": 23,
+              "blue": 62
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover510Wide": {
+          "href": "https://img1.od-cdn.com/ImageType-100/0111-1/{4474546E-F5EB-462C-9214-C1F24483FFA1}IMG100.JPG",
+          "height": 680,
+          "width": 510,
+          "primaryColor": {
+            "hex": "#19173E",
+            "rgb": {
+              "red": 25,
+              "green": 23,
+              "blue": 62
+            }
+          },
+          "isPlaceholderImage": false
+        }
+      },
+      "id": "6287088",
+      "firstCreatorName": "Stephanie Foo",
+      "firstCreatorId": 2507353,
+      "firstCreatorSortName": "Foo, Stephanie",
+      "title": "What My Bones Know",
+      "sortTitle": "What My Bones Know A Memoir of Healing from Complex Trauma",
+      "starRating": 4.2,
+      "starRatingCount": 142,
+      "publishDate": "2022-02-22T00:00:00Z",
+      "publishDateText": "02/22/2022",
+      "formats": [
+        {
+          "identifiers": [
+            {
+              "type": "PublisherCatalogNumber",
+              "value": "658389"
+            },
+            {
+              "type": "ASIN",
+              "value": "B095MPG9CF"
+            }
+          ],
+          "rights": [],
+          "onSaleDateUtc": "2022-02-22T05:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "bundledContent": [],
+          "fulfillmentType": "kindle",
+          "id": "ebook-kindle",
+          "name": "Kindle Book"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9780593238110"
+            },
+            {
+              "type": "PublisherCatalogNumber",
+              "value": "658389"
+            }
+          ],
+          "rights": [],
+          "onSaleDateUtc": "2022-02-22T05:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9780593238110",
+          "bundledContent": [],
+          "sample": {
+            "href": "https://samples.overdrive.com/?crid=4474546e-f5eb-462c-9214-c1f24483ffa1&.epub-sample.overdrive.com"
+          },
+          "fulfillmentType": "bifocal",
+          "id": "ebook-overdrive",
+          "name": "OverDrive Read"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9780593238110"
+            },
+            {
+              "type": "PublisherCatalogNumber",
+              "value": "658389"
+            }
+          ],
+          "rights": [],
+          "fileSize": 2752019,
+          "onSaleDateUtc": "2022-02-22T05:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9780593238110",
+          "bundledContent": [],
+          "fulfillmentType": "epub",
+          "id": "ebook-epub-adobe",
+          "name": "EPUB eBook"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "PublisherCatalogNumber",
+              "value": "658389"
+            },
+            {
+              "type": "KoboBookID",
+              "value": "909b3f66-f6a4-3ad3-9199-eaabfe8a830c"
+            }
+          ],
+          "rights": [],
+          "onSaleDateUtc": "2022-02-22T05:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "bundledContent": [],
+          "fulfillmentType": "kobo",
+          "id": "ebook-kobo",
+          "name": "Kobo eBook"
+        }
+      ],
+      "publisherAccount": {
+        "id": "221",
+        "name": "Random House, Inc."
+      }
+    },
+    {
+      "reserveId": "d13622bf-b25d-415e-8e7b-773a90995674",
+      "subjects": [
+        {
+          "id": "7",
+          "name": "Biography & Autobiography"
+        },
+        {
+          "id": "56",
+          "name": "Music"
+        },
+        {
+          "id": "83",
+          "name": "Sociology"
+        },
+        {
+          "id": "111",
+          "name": "Nonfiction"
+        }
+      ],
+      "bisacCodes": [
+        "BIO013000",
+        "MUS035000",
+        "SOC022000"
+      ],
+      "bisac": [
+        {
+          "code": "BIO013000",
+          "description": "Biography & Autobiography / Rich & Famous"
+        },
+        {
+          "code": "MUS035000",
+          "description": "Music / Genres & Styles / Rock"
+        },
+        {
+          "code": "SOC022000",
+          "description": "Social Science / Popular Culture"
+        }
+      ],
+      "levels": [],
+      "creators": [
+        {
+          "id": 1199191,
+          "name": "Virginia Grohl",
+          "role": "Author",
+          "sortName": "Grohl, Virginia"
+        },
+        {
+          "id": 1199191,
+          "name": "Virginia Grohl",
+          "role": "Narrator",
+          "sortName": "Grohl, Virginia"
+        }
+      ],
+      "languages": [
+        {
+          "id": "en",
+          "name": "English"
+        }
+      ],
+      "imprint": {
+        "id": "101723",
+        "name": "Seal Press"
+      },
+      "isBundledChild": false,
+      "ratings": {
+        "maturityLevel": {
+          "id": "generalcontent",
+          "name": "General content"
+        },
+        "naughtyScore": {
+          "id": "GeneralContent",
+          "name": "General content"
+        }
+      },
+      "constraints": {
+        "isDisneyEulaRequired": false
+      },
+      "reviewCounts": {
+        "premium": 0,
+        "publisherSupplier": 0
+      },
+      "isAvailable": false,
+      "isPreReleaseTitle": false,
+      "estimatedReleaseDate": "2017-04-25T04:00:00Z",
+      "sample": {
+        "href": "https://samples.overdrive.com/?crid=d13622bf-b25d-415e-8e7b-773a90995674&.epub-sample.overdrive.com"
+      },
+      "publisher": {
+        "id": "34375",
+        "name": "Hachette Audio"
+      },
+      "subtitle": "Stories from the Mothers Who Rocked and Raised Rock Stars",
+      "description": "<B>Written by Virginia Grohl, the mother of Dave Grohl&#8212;former Nirvana drummer and current frontman for the Foo Fighters&#8212;<I>From Cradle to Stage</I> shares stories and exclusive photos featuring mothers of rock icons, the icons themselves, and their <I>Behind the Music</I>-style relationships</B><BR />While the Grohl family had always been musical-the family sang together on long car trips, harmonizing to Motown and David Bowie-Virginia never expected her son to become a musician, let alone a rock star. But when she saw him perform in front of thousands of screaming fans for the first time, she knew that rock stardom was meant to be for her son. And as Virginia watched her son's star rise, she often wondered about the other mothers who raised sons and daughters who became rock stars. Were they as surprised as she was about their children's fame? Did they worry about their children's livelihood and wellbeing in an industry fraught with drugs and other dangers? Did they encourage their children's passions despite the odds against success, or attempt to dissuade them from their grandiose dreams? Do they remind their kids to pack a warm coat when they go on tour?<BR />Virginia decided to seek out other rock star mothers to ask these questions, and so began a two-year odyssey in which she interviewed such women as Verna Griffin, Dr. Dre's mother; Marianne Stipe, Michael Stipe of REM's mother; Janis Winehouse, Amy Winehouse's mother; Patsy Noah, Adam Levine's mother; Donna Haim, mother of the Haim sisters; Hester Diamond, Mike D of The Beastie Boys' mother.<BR />With exclusive family photographs and a foreword by Dave Grohl, <I>From Cradle to Stage</I> will appeal to mothers and rock fans everywhere.",
+      "availableCopies": 0,
+      "ownedCopies": 1,
+      "luckyDayAvailableCopies": 0,
+      "luckyDayOwnedCopies": 0,
+      "holdsCount": 0,
+      "holdsRatio": 0,
+      "estimatedWaitDays": 14,
+      "isFastlane": false,
+      "availabilityType": "normal",
+      "isRecommendableToLibrary": true,
+      "isOwned": true,
+      "isHoldable": true,
+      "isAdvantageFiltered": false,
+      "visitorEligible": false,
+      "juvenileEligible": false,
+      "youngAdultEligible": false,
+      "contentAccessLevels": 0,
+      "classifications": {},
+      "type": {
+        "id": "audiobook",
+        "name": "Audiobook"
+      },
+      "covers": {
+        "cover150Wide": {
+          "href": "https://img1.od-cdn.com/ImageType-150/4575-1/D13/622/BF/{D13622BF-B25D-415E-8E7B-773A90995674}Img150.jpg",
+          "height": 200,
+          "width": 150,
+          "primaryColor": {
+            "hex": "#1E170F",
+            "rgb": {
+              "red": 30,
+              "green": 23,
+              "blue": 15
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover300Wide": {
+          "href": "https://img3.od-cdn.com/ImageType-400/4575-1/D13/622/BF/{D13622BF-B25D-415E-8E7B-773A90995674}Img400.jpg",
+          "height": 400,
+          "width": 300,
+          "primaryColor": {
+            "hex": "#1E170F",
+            "rgb": {
+              "red": 30,
+              "green": 23,
+              "blue": 15
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover510Wide": {
+          "href": "https://img3.od-cdn.com/ImageType-100/4575-1/{D13622BF-B25D-415E-8E7B-773A90995674}Img100.jpg",
+          "height": 680,
+          "width": 510,
+          "primaryColor": {
+            "hex": "#1E170F",
+            "rgb": {
+              "red": 30,
+              "green": 23,
+              "blue": 15
+            }
+          },
+          "isPlaceholderImage": false
+        }
+      },
+      "id": "2958470",
+      "firstCreatorName": "Virginia Grohl",
+      "firstCreatorId": 1199191,
+      "firstCreatorSortName": "Grohl, Virginia",
+      "title": "From Cradle to Stage",
+      "sortTitle": "From Cradle to Stage Stories from the Mothers Who Rocked and Raised Rock Stars",
+      "starRating": 3.9,
+      "starRatingCount": 55,
+      "edition": "Unabridged",
+      "publishDate": "2017-04-18T00:00:00Z",
+      "publishDateText": "04/18/2017",
+      "formats": [
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9781478920311"
+            },
+            {
+              "type": "8",
+              "value": "hachette_audio#9781478920311"
+            }
+          ],
+          "rights": [],
+          "fileSize": 238703384,
+          "onSaleDateUtc": "2017-04-25T04:00:00+00:00",
+          "duration": "08:17:17",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": true,
+          "isbn": "9781478920311",
+          "bundledContent": [
+            {
+              "titleId": 3759442
+            },
+            {
+              "titleId": 3759442
+            }
+          ],
+          "sample": {
+            "href": "https://samples.overdrive.com/?crid=d13622bf-b25d-415e-8e7b-773a90995674&.epub-sample.overdrive.com"
+          },
+          "fulfillmentType": "bifocal",
+          "id": "audiobook-overdrive",
+          "name": "OverDrive Listen audiobook"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9781478920311"
+            },
+            {
+              "type": "8",
+              "value": "hachette_audio#9781478920311"
+            }
+          ],
+          "rights": [],
+          "fileSize": 238731080,
+          "onSaleDateUtc": "2017-04-25T04:00:00+00:00",
+          "partCount": 8,
+          "duration": "08:20:17",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": true,
+          "isbn": "9781478920311",
+          "bundledContent": [
+            {
+              "titleId": 3759442
+            },
+            {
+              "titleId": 3759442
+            }
+          ],
+          "sample": {
+            "href": "https://excerpts.cdn.overdrive.com/FormatType-425/4575-1/2958470-FromCradleToStage.mp3"
+          },
+          "fulfillmentType": "odm",
+          "id": "audiobook-mp3",
+          "name": "MP3 audiobook"
+        }
+      ],
+      "publisherAccount": {
+        "id": "16380",
+        "name": "Hachette Audio"
+      }
+    },
+    {
+      "reserveId": "0691dee1-4995-4fa5-af57-0cc04e531ed9",
+      "subjects": [
+        {
+          "id": "24",
+          "name": "Fantasy"
+        },
+        {
+          "id": "26",
+          "name": "Fiction"
+        }
+      ],
+      "bisacCodes": [
+        "FIC009010",
+        "FIC009100"
+      ],
+      "bisac": [
+        {
+          "code": "FIC009010",
+          "description": "Fiction / Fantasy / Contemporary"
+        },
+        {
+          "code": "FIC009100",
+          "description": "Fiction / Fantasy / Action & Adventure"
+        }
+      ],
+      "levels": [],
+      "creators": [
+        {
+          "id": 1879087,
+          "name": "Julia Vee",
+          "role": "Author",
+          "sortName": "Vee, Julia"
+        },
+        {
+          "id": 1879088,
+          "name": "Ken Bebelle",
+          "role": "Author",
+          "sortName": "Bebelle, Ken"
+        },
+        {
+          "id": 1560293,
+          "name": "Natalie Naudus",
+          "role": "Narrator",
+          "sortName": "Naudus, Natalie"
+        }
+      ],
+      "languages": [
+        {
+          "id": "en",
+          "name": "English"
+        }
+      ],
+      "isBundledChild": false,
+      "ratings": {
+        "maturityLevel": {
+          "id": "generalcontent",
+          "name": "General content"
+        },
+        "naughtyScore": {
+          "id": "GeneralContent",
+          "name": "General content"
+        }
+      },
+      "constraints": {
+        "isDisneyEulaRequired": false
+      },
+      "reviewCounts": {
+        "premium": 1,
+        "publisherSupplier": 0
+      },
+      "isAvailable": true,
+      "isPreReleaseTitle": false,
+      "estimatedReleaseDate": "2023-07-11T04:00:00Z",
+      "sample": {
+        "href": "https://samples.overdrive.com/?crid=0691dee1-4995-4fa5-af57-0cc04e531ed9&.epub-sample.overdrive.com"
+      },
+      "publisher": {
+        "id": "2166",
+        "name": "Macmillan Audio"
+      },
+      "series": "Phoenix Hoard",
+      "description": "<p><b>Julia Vee and Ken Bebelle's <i>Ebony Gate</i> is a female <i>John Wick</i> story with dragon magic set in contemporary San Francisco's Chinatown.</b><br>Emiko Soong belongs to one of the eight premier magical families of the world. But Emiko never needed any magic. Because she is the Blade of the Soong Clan. Or was. Until she's drenched in blood in the middle of a market in China, surrounded by bodies and the scent of blood and human waste as a lethal perfume. <br>The Butcher of Beijing now lives a quiet life in San Francisco, importing antiques. But when a shinigami, a god of death itself, calls in a family blood debt, Emiko must recover the Ebony Gate that holds back the hungry ghosts of the Yomi underworld. Or forfeit her soul as the anchor.<br>What's a retired assassin to do but save the City by the Bay from an army of the dead?<br><b>A Macmillan Audio production from Tor Books.</b></p>",
+      "availableCopies": 1,
+      "ownedCopies": 1,
+      "luckyDayAvailableCopies": 0,
+      "luckyDayOwnedCopies": 0,
+      "holdsCount": 0,
+      "holdsRatio": 0,
+      "estimatedWaitDays": 14,
+      "isFastlane": false,
+      "availabilityType": "normal",
+      "isRecommendableToLibrary": true,
+      "isOwned": true,
+      "isHoldable": true,
+      "isAdvantageFiltered": false,
+      "visitorEligible": false,
+      "juvenileEligible": false,
+      "youngAdultEligible": false,
+      "contentAccessLevels": 0,
+      "classifications": {},
+      "type": {
+        "id": "audiobook",
+        "name": "Audiobook"
+      },
+      "covers": {
+        "cover150Wide": {
+          "href": "https://img1.od-cdn.com/ImageType-150/1493-1/{0691DEE1-4995-4FA5-AF57-0CC04E531ED9}IMG150.JPG",
+          "height": 200,
+          "width": 150,
+          "primaryColor": {
+            "hex": "#0E0202",
+            "rgb": {
+              "red": 14,
+              "green": 2,
+              "blue": 2
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover300Wide": {
+          "href": "https://img2.od-cdn.com/ImageType-400/1493-1/{0691DEE1-4995-4FA5-AF57-0CC04E531ED9}IMG400.JPG",
+          "height": 400,
+          "width": 300,
+          "primaryColor": {
+            "hex": "#070101",
+            "rgb": {
+              "red": 7,
+              "green": 1,
+              "blue": 1
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover510Wide": {
+          "href": "https://img2.od-cdn.com/ImageType-100/1493-1/{0691DEE1-4995-4FA5-AF57-0CC04E531ED9}IMG100.JPG",
+          "height": 680,
+          "width": 510,
+          "primaryColor": {
+            "hex": "#030102",
+            "rgb": {
+              "red": 3,
+              "green": 1,
+              "blue": 2
+            }
+          },
+          "isPlaceholderImage": false
+        }
+      },
+      "id": "9215469",
+      "firstCreatorName": "Julia Vee",
+      "firstCreatorId": 1879087,
+      "firstCreatorSortName": "Vee, Julia",
+      "title": "Ebony Gate",
+      "sortTitle": "Ebony Gate",
+      "starRating": 3.4,
+      "starRatingCount": 12,
+      "edition": "Unabridged",
+      "publishDate": "2023-07-11T00:00:00Z",
+      "publishDateText": "07/11/2023",
+      "formats": [
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9781250902832"
+            }
+          ],
+          "rights": [],
+          "fileSize": 406969360,
+          "onSaleDateUtc": "2023-07-11T04:00:00+00:00",
+          "duration": "14:07:51",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9781250902832",
+          "bundledContent": [],
+          "sample": {
+            "href": "https://samples.overdrive.com/?crid=0691dee1-4995-4fa5-af57-0cc04e531ed9&.epub-sample.overdrive.com"
+          },
+          "fulfillmentType": "bifocal",
+          "id": "audiobook-overdrive",
+          "name": "OverDrive Listen audiobook"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9781250902832"
+            }
+          ],
+          "rights": [],
+          "fileSize": 407011192,
+          "onSaleDateUtc": "2023-07-11T04:00:00+00:00",
+          "partCount": 12,
+          "duration": "14:14:45",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9781250902832",
+          "bundledContent": [],
+          "fulfillmentType": "odm",
+          "id": "audiobook-mp3",
+          "name": "MP3 audiobook"
+        }
+      ],
+      "publisherAccount": {
+        "id": "3606",
+        "name": "Macmillan Audio"
+      },
+      "detailedSeries": {
+        "seriesId": 1445196,
+        "seriesName": "Phoenix Hoard",
+        "readingOrder": "1",
+        "rank": 1
+      }
+    },
+    {
+      "reserveId": "93f27409-b25a-4af3-836d-152219a14719",
+      "subjects": [
+        {
+          "id": "24",
+          "name": "Fantasy"
+        },
+        {
+          "id": "26",
+          "name": "Fiction"
+        }
+      ],
+      "bisacCodes": [
+        "FIC009010",
+        "FIC009100"
+      ],
+      "bisac": [
+        {
+          "code": "FIC009010",
+          "description": "Fiction / Fantasy / Contemporary"
+        },
+        {
+          "code": "FIC009100",
+          "description": "Fiction / Fantasy / Action & Adventure"
+        }
+      ],
+      "levels": [],
+      "creators": [
+        {
+          "id": 1879087,
+          "name": "Julia Vee",
+          "role": "Author",
+          "sortName": "Vee, Julia"
+        },
+        {
+          "id": 1879088,
+          "name": "Ken Bebelle",
+          "role": "Author",
+          "sortName": "Bebelle, Ken"
+        }
+      ],
+      "languages": [
+        {
+          "id": "en",
+          "name": "English"
+        }
+      ],
+      "imprint": {
+        "id": "161289",
+        "name": "Tor Books"
+      },
+      "isBundledChild": false,
+      "ratings": {
+        "maturityLevel": {
+          "id": "generalcontent",
+          "name": "General content"
+        },
+        "naughtyScore": {
+          "id": "GeneralContent",
+          "name": "General content"
+        }
+      },
+      "constraints": {
+        "isDisneyEulaRequired": false
+      },
+      "reviewCounts": {
+        "premium": 3,
+        "publisherSupplier": 5
+      },
+      "isAvailable": true,
+      "isPreReleaseTitle": false,
+      "estimatedReleaseDate": "2023-07-11T04:00:00Z",
+      "sample": {
+        "href": "https://samples.overdrive.com/?crid=93f27409-b25a-4af3-836d-152219a14719&.epub-sample.overdrive.com"
+      },
+      "publisher": {
+        "id": "329930",
+        "name": "Tor Publishing Group"
+      },
+      "series": "The Phoenix Hoard",
+      "description": "<p><b>A CALIBA 2023 Golden Poppy Book Award Finalist</b><br><b><br>Julia Vee and Ken Bebelle's <i>Ebony Gate</i> is a female <i>John Wick</i> story with dragon magic set in contemporary San Francisco's Chinatown.</b><br>Emiko Soong belongs to one of the eight premier magical families of the world. But Emiko never needed any magic. Because she is the Blade of the Soong Clan. Or was. Until she's drenched in blood in the middle of a market in China, surrounded by bodies and the scent of blood and human waste as a lethal perfume. <br>The Butcher of Beijing now lives a quiet life in San Francisco, importing antiques. But when a shinigami, a god of death itself, calls in a family blood debt, Emiko must recover the Ebony Gate that holds back the hungry ghosts of the Yomi underworld. Or forfeit her soul as the anchor.<br>What's a retired assassin to do but save the City by the Bay from an army of the dead?<br>At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.</p>",
+      "availableCopies": 1,
+      "ownedCopies": 1,
+      "luckyDayAvailableCopies": 0,
+      "luckyDayOwnedCopies": 0,
+      "holdsCount": 0,
+      "holdsRatio": 0,
+      "estimatedWaitDays": 14,
+      "isFastlane": false,
+      "availabilityType": "normal",
+      "isRecommendableToLibrary": true,
+      "isOwned": true,
+      "isHoldable": true,
+      "isAdvantageFiltered": false,
+      "visitorEligible": false,
+      "juvenileEligible": false,
+      "youngAdultEligible": false,
+      "contentAccessLevels": 0,
+      "classifications": {},
+      "type": {
+        "id": "ebook",
+        "name": "eBook"
+      },
+      "covers": {
+        "cover150Wide": {
+          "href": "https://img2.od-cdn.com/ImageType-150/2390-1/{93F27409-B25A-4AF3-836D-152219A14719}IMG150.JPG",
+          "height": 200,
+          "width": 150,
+          "primaryColor": {
+            "hex": "#060000",
+            "rgb": {
+              "red": 6,
+              "green": 0,
+              "blue": 0
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover300Wide": {
+          "href": "https://img2.od-cdn.com/ImageType-400/2390-1/{93F27409-B25A-4AF3-836D-152219A14719}IMG400.JPG",
+          "height": 400,
+          "width": 300,
+          "primaryColor": {
+            "hex": "#060000",
+            "rgb": {
+              "red": 6,
+              "green": 0,
+              "blue": 0
+            }
+          },
+          "isPlaceholderImage": false
+        },
+        "cover510Wide": {
+          "href": "https://img1.od-cdn.com/ImageType-100/2390-1/{93F27409-B25A-4AF3-836D-152219A14719}IMG100.JPG",
+          "height": 680,
+          "width": 510,
+          "primaryColor": {
+            "hex": "#050000",
+            "rgb": {
+              "red": 5,
+              "green": 0,
+              "blue": 0
+            }
+          },
+          "isPlaceholderImage": false
+        }
+      },
+      "id": "9174786",
+      "firstCreatorName": "Julia Vee",
+      "firstCreatorId": 1879087,
+      "firstCreatorSortName": "Vee, Julia",
+      "title": "Ebony Gate",
+      "sortTitle": "Ebony Gate",
+      "starRating": 3.2,
+      "starRatingCount": 15,
+      "publishDate": "2023-07-11T00:00:00Z",
+      "publishDateText": "07/11/2023",
+      "formats": [
+        {
+          "identifiers": [
+            {
+              "type": "ASIN",
+              "value": "B0B9KVR1M9"
+            }
+          ],
+          "rights": [],
+          "onSaleDateUtc": "2023-07-11T04:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "bundledContent": [],
+          "fulfillmentType": "kindle",
+          "id": "ebook-kindle",
+          "name": "Kindle Book"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9781250837448"
+            }
+          ],
+          "rights": [],
+          "onSaleDateUtc": "2023-07-11T04:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9781250837448",
+          "bundledContent": [],
+          "sample": {
+            "href": "https://samples.overdrive.com/?crid=93f27409-b25a-4af3-836d-152219a14719&.epub-sample.overdrive.com"
+          },
+          "fulfillmentType": "bifocal",
+          "id": "ebook-overdrive",
+          "name": "OverDrive Read"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "ISBN",
+              "value": "9781250837448"
+            }
+          ],
+          "rights": [],
+          "fileSize": 4460063,
+          "onSaleDateUtc": "2023-07-11T04:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "isbn": "9781250837448",
+          "bundledContent": [],
+          "fulfillmentType": "epub",
+          "id": "ebook-epub-adobe",
+          "name": "EPUB eBook"
+        },
+        {
+          "identifiers": [
+            {
+              "type": "KoboBookID",
+              "value": "f70ae4e0-648a-3788-a87b-af2f28903260"
+            }
+          ],
+          "rights": [],
+          "onSaleDateUtc": "2023-07-11T04:00:00+00:00",
+          "hasAudioSynchronizedText": false,
+          "isBundleParent": false,
+          "bundledContent": [],
+          "fulfillmentType": "kobo",
+          "id": "ebook-kobo",
+          "name": "Kobo eBook"
+        }
+      ],
+      "publisherAccount": {
+        "id": "6222",
+        "name": "Macmillan Publishers"
+      },
+      "detailedSeries": {
+        "seriesId": 1449909,
+        "seriesName": "The Phoenix Hoard",
+        "readingOrder": "1",
+        "rank": 1
+      }
+    }
+  ],
+  "totalItems": 5,
+  "totalItemsText": "5",
+  "links": {
+    "self": {
+      "page": 1,
+      "pageText": "1"
+    },
+    "first": {
+      "page": 1,
+      "pageText": "1"
+    },
+    "last": {
+      "page": 1,
+      "pageText": "1"
+    }
+  }
+}
