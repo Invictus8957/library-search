@@ -29,6 +29,3 @@ type Libby interface {
 	SearchByAuthor(string) []LibbyResult
 	SearchByTitle(string) []LibbyResult
 }
-
-// probably want this to not be a const because testing
-var libbyURL = "https://thunder.api.overdrive.com"
