@@ -7,6 +7,11 @@ package libby
 // for a single library we want to do all the query operations as well, and then aggregate
 // in the main impl across the multiple libraries
 
+type LibbyLibrary struct {
+	ID        string // the string id used in searches
+	WebsiteID int    // this is the website id needed to lookup the id string
+}
+
 type LibbyResult struct {
 	Author            string
 	Title             string
@@ -20,6 +25,7 @@ type LibbyResult struct {
 }
 
 type Libby interface {
+	FindLibrary(string) []LibbyLibrary
 	SearchByAuthor(string) []LibbyResult
 	SearchByTitle(string) []LibbyResult
 }

@@ -1,0 +1,4677 @@
+{
+    "branches": [
+      {
+        "id": 47694,
+        "name": "Lexington Public Library - Beaumont Branch",
+        "address": "3080 Fieldstone Way",
+        "phoneNumber": "(859) 231-5500",
+        "city": "Lexington",
+        "regionCode": "KY",
+        "region": "Kentucky",
+        "postalCode": "40513",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 38.012922,
+        "longitude": -84.557527,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://www.lexpublib.org/foundation"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.lexpublib.org"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.lexpublib.org/get-a-library-card"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ebooksupport@lexpublib.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrary"
+          },
+          {
+            "name": "YouTube",
+            "url": "http://www.youtube.com/user/lexlibrary"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          2325
+        ],
+        "systems": [
+          {
+            "id": 2325,
+            "websiteId": 571,
+            "type": "Public Library",
+            "name": "Lexington Public Library",
+            "fulfillmentId": "lexingtonky",
+            "branchIds": [
+              47694,
+              47695,
+              47696,
+              47697,
+              47698,
+              47699,
+              54990
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "http://www.facebook.com/lexingtonpubliclibrary"
+              },
+              {
+                "name": "YouTube",
+                "url": "http://www.youtube.com/user/lexlibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://www.lexpublib.org/get-a-library-card"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://www.lexpublib.org/foundation"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lexpublib.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.lexpublib.org"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "ebooksupport@lexpublib.org"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/2325?1684331215"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#115292",
+                "rgb": {
+                  "blue": 146,
+                  "green": 82,
+                  "red": 17
+                }
+              },
+              "secondaryColor": {
+                "hex": "#902a8e",
+                "rgb": {
+                  "blue": 142,
+                  "green": 42,
+                  "red": 144
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "KY"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 10.187879
+      },
+      {
+        "id": 47695,
+        "name": "Lexington Public Library - Central Library",
+        "address": "140 E. Main St.",
+        "phoneNumber": "(859) 231-5500",
+        "city": "Lexington",
+        "regionCode": "KY",
+        "region": "Kentucky",
+        "postalCode": "40507",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 38.045322,
+        "longitude": -84.496552,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://www.lexpublib.org/foundation"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.lexpublib.org"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.lexpublib.org/get-a-library-card"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ebooksupport@lexpublib.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrary"
+          },
+          {
+            "name": "YouTube",
+            "url": "http://www.youtube.com/user/lexlibrary"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          2325
+        ],
+        "systems": [
+          {
+            "id": 2325,
+            "websiteId": 571,
+            "type": "Public Library",
+            "name": "Lexington Public Library",
+            "fulfillmentId": "lexingtonky",
+            "branchIds": [
+              47694,
+              47695,
+              47696,
+              47697,
+              47698,
+              47699,
+              54990
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "http://www.facebook.com/lexingtonpubliclibrary"
+              },
+              {
+                "name": "YouTube",
+                "url": "http://www.youtube.com/user/lexlibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://www.lexpublib.org/get-a-library-card"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://www.lexpublib.org/foundation"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lexpublib.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.lexpublib.org"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "ebooksupport@lexpublib.org"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/2325?1684331215"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#115292",
+                "rgb": {
+                  "blue": 146,
+                  "green": 82,
+                  "red": 17
+                }
+              },
+              "secondaryColor": {
+                "hex": "#902a8e",
+                "rgb": {
+                  "blue": 142,
+                  "green": 42,
+                  "red": 144
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "KY"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 10.187879
+      },
+      {
+        "id": 47696,
+        "name": "Lexington Public Library - Eastside Branch",
+        "address": "3000 Blake James Dr.",
+        "phoneNumber": "(859) 231-5500",
+        "city": "Lexington",
+        "regionCode": "KY",
+        "region": "Kentucky",
+        "postalCode": "40509",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 38.007501,
+        "longitude": -84.435563,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://www.lexpublib.org/foundation"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.lexpublib.org"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.lexpublib.org/get-a-library-card"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ebooksupport@lexpublib.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrary"
+          },
+          {
+            "name": "YouTube",
+            "url": "http://www.youtube.com/user/lexlibrary"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          2325
+        ],
+        "systems": [
+          {
+            "id": 2325,
+            "websiteId": 571,
+            "type": "Public Library",
+            "name": "Lexington Public Library",
+            "fulfillmentId": "lexingtonky",
+            "branchIds": [
+              47694,
+              47695,
+              47696,
+              47697,
+              47698,
+              47699,
+              54990
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "http://www.facebook.com/lexingtonpubliclibrary"
+              },
+              {
+                "name": "YouTube",
+                "url": "http://www.youtube.com/user/lexlibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://www.lexpublib.org/get-a-library-card"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://www.lexpublib.org/foundation"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lexpublib.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.lexpublib.org"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "ebooksupport@lexpublib.org"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/2325?1684331215"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#115292",
+                "rgb": {
+                  "blue": 146,
+                  "green": 82,
+                  "red": 17
+                }
+              },
+              "secondaryColor": {
+                "hex": "#902a8e",
+                "rgb": {
+                  "blue": 142,
+                  "green": 42,
+                  "red": 144
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "KY"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 10.187879
+      },
+      {
+        "id": 47697,
+        "name": "Lexington Public Library - Northside Branch",
+        "address": "1733 Russell Cave Rd.",
+        "phoneNumber": "(859) 231-5500",
+        "city": "Lexington",
+        "regionCode": "KY",
+        "region": "Kentucky",
+        "postalCode": "40505",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 38.079469,
+        "longitude": -84.471351,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://www.lexpublib.org/foundation"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.lexpublib.org"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.lexpublib.org/get-a-library-card"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ebooksupport@lexpublib.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrary"
+          },
+          {
+            "name": "YouTube",
+            "url": "http://www.youtube.com/user/lexlibrary"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          2325
+        ],
+        "systems": [
+          {
+            "id": 2325,
+            "websiteId": 571,
+            "type": "Public Library",
+            "name": "Lexington Public Library",
+            "fulfillmentId": "lexingtonky",
+            "branchIds": [
+              47694,
+              47695,
+              47696,
+              47697,
+              47698,
+              47699,
+              54990
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "http://www.facebook.com/lexingtonpubliclibrary"
+              },
+              {
+                "name": "YouTube",
+                "url": "http://www.youtube.com/user/lexlibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://www.lexpublib.org/get-a-library-card"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://www.lexpublib.org/foundation"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lexpublib.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.lexpublib.org"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "ebooksupport@lexpublib.org"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/2325?1684331215"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#115292",
+                "rgb": {
+                  "blue": 146,
+                  "green": 82,
+                  "red": 17
+                }
+              },
+              "secondaryColor": {
+                "hex": "#902a8e",
+                "rgb": {
+                  "blue": 142,
+                  "green": 42,
+                  "red": 144
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "KY"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 10.187879
+      },
+      {
+        "id": 47698,
+        "name": "Lexington Public Library - Tates Creek Branch",
+        "address": "3628 Walden Dr.",
+        "phoneNumber": "(859) 231-5500",
+        "city": "Lexington",
+        "regionCode": "KY",
+        "region": "Kentucky",
+        "postalCode": "40517",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 37.97975,
+        "longitude": -84.499401,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://www.lexpublib.org/foundation"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.lexpublib.org"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.lexpublib.org/get-a-library-card"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ebooksupport@lexpublib.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrary"
+          },
+          {
+            "name": "YouTube",
+            "url": "http://www.youtube.com/user/lexlibrary"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          2325
+        ],
+        "systems": [
+          {
+            "id": 2325,
+            "websiteId": 571,
+            "type": "Public Library",
+            "name": "Lexington Public Library",
+            "fulfillmentId": "lexingtonky",
+            "branchIds": [
+              47694,
+              47695,
+              47696,
+              47697,
+              47698,
+              47699,
+              54990
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "http://www.facebook.com/lexingtonpubliclibrary"
+              },
+              {
+                "name": "YouTube",
+                "url": "http://www.youtube.com/user/lexlibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://www.lexpublib.org/get-a-library-card"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://www.lexpublib.org/foundation"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lexpublib.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.lexpublib.org"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "ebooksupport@lexpublib.org"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/2325?1684331215"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#115292",
+                "rgb": {
+                  "blue": 146,
+                  "green": 82,
+                  "red": 17
+                }
+              },
+              "secondaryColor": {
+                "hex": "#902a8e",
+                "rgb": {
+                  "blue": 142,
+                  "green": 42,
+                  "red": 144
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "KY"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 10.187879
+      },
+      {
+        "id": 47699,
+        "name": "Lexington Public Library - Marksbury Family Branch",
+        "address": "2197 Versailles Rd.",
+        "phoneNumber": "(859) 231-5500",
+        "city": "Lexington",
+        "regionCode": "KY",
+        "region": "Kentucky",
+        "postalCode": "40504",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 38.047554,
+        "longitude": -84.548664,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://www.lexpublib.org/foundation"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.lexpublib.org"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.lexpublib.org/get-a-library-card"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ebooksupport@lexpublib.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrary"
+          },
+          {
+            "name": "YouTube",
+            "url": "http://www.youtube.com/user/lexlibrary"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          2325
+        ],
+        "systems": [
+          {
+            "id": 2325,
+            "websiteId": 571,
+            "type": "Public Library",
+            "name": "Lexington Public Library",
+            "fulfillmentId": "lexingtonky",
+            "branchIds": [
+              47694,
+              47695,
+              47696,
+              47697,
+              47698,
+              47699,
+              54990
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "http://www.facebook.com/lexingtonpubliclibrary"
+              },
+              {
+                "name": "YouTube",
+                "url": "http://www.youtube.com/user/lexlibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://www.lexpublib.org/get-a-library-card"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://www.lexpublib.org/foundation"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lexpublib.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.lexpublib.org"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "ebooksupport@lexpublib.org"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/2325?1684331215"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#115292",
+                "rgb": {
+                  "blue": 146,
+                  "green": 82,
+                  "red": 17
+                }
+              },
+              "secondaryColor": {
+                "hex": "#902a8e",
+                "rgb": {
+                  "blue": 142,
+                  "green": 42,
+                  "red": 144
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "KY"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 10.187879
+      },
+      {
+        "id": 54990,
+        "name": "Lexington Public Library",
+        "address": "140 E Main St",
+        "phoneNumber": "(859) 231-5500",
+        "city": "Lexington",
+        "regionCode": "KY",
+        "region": "Kentucky",
+        "postalCode": "40507",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 38.045322,
+        "longitude": -84.496552,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "http://www.lexpublib.org/foundation"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "http://www.lexpublib.org"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "http://www.lexpublib.org/get-a-library-card"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ebooksupport@lexpublib.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrary"
+          },
+          {
+            "name": "YouTube",
+            "url": "http://www.youtube.com/user/lexlibrary/"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          2325
+        ],
+        "systems": [
+          {
+            "id": 2325,
+            "websiteId": 571,
+            "type": "Public Library",
+            "name": "Lexington Public Library",
+            "fulfillmentId": "lexingtonky",
+            "branchIds": [
+              47694,
+              47695,
+              47696,
+              47697,
+              47698,
+              47699,
+              54990
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "http://www.facebook.com/lexingtonpubliclibrary"
+              },
+              {
+                "name": "YouTube",
+                "url": "http://www.youtube.com/user/lexlibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://www.lexpublib.org/get-a-library-card"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://www.lexpublib.org/foundation"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lexpublib.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.lexpublib.org"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "ebooksupport@lexpublib.org"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/2325?1684331215"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#115292",
+                "rgb": {
+                  "blue": 146,
+                  "green": 82,
+                  "red": 17
+                }
+              },
+              "secondaryColor": {
+                "hex": "#902a8e",
+                "rgb": {
+                  "blue": 142,
+                  "green": 42,
+                  "red": 144
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "KY"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 10.187879
+      },
+      {
+        "id": 54989,
+        "name": "Lexington County Public Library",
+        "address": "5440 Augusta Rd",
+        "city": "Lexington",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29072-3892",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.975403,
+        "longitude": -81.22007,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 9.281456
+      },
+      {
+        "id": 47693,
+        "name": "Lexington Public Library",
+        "address": "907 N Washington St",
+        "phoneNumber": "308-324-2151",
+        "city": "Lexington",
+        "regionCode": "NE",
+        "region": "Nebraska",
+        "postalCode": "68850-1328",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 40.782027,
+        "longitude": -99.741526,
+        "links": [
+          {
+            "name": "BranchLibraryUrl",
+            "url": "http://libraries.ne.gov/lexington/"
+          },
+          {
+            "name": "BranchSupportUrl",
+            "url": "http://libraries.ne.gov/lexington/contact-us/"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1419
+        ],
+        "systems": [
+          {
+            "id": 1419,
+            "websiteId": 275,
+            "type": "Public Library",
+            "name": "Nebraska OverDrive Libraries",
+            "fulfillmentId": "nebraska",
+            "branchIds": [
+              42864,
+              43268,
+              43311,
+              43372,
+              43521,
+              43777,
+              44201,
+              44243,
+              44630,
+              45669,
+              46063,
+              46158,
+              46175,
+              46205,
+              46312,
+              46479,
+              46486,
+              46487,
+              46558,
+              46641,
+              46687,
+              46764,
+              47103,
+              47243,
+              47247,
+              47331,
+              47423,
+              47693,
+              47734,
+              47736,
+              48731,
+              48872,
+              49024,
+              49178,
+              49283,
+              49451,
+              50059,
+              50110,
+              50583,
+              50927,
+              50944,
+              50956,
+              51011,
+              51107,
+              51298,
+              51671,
+              51707,
+              51746,
+              52170,
+              52355,
+              52878,
+              52972,
+              53259,
+              53499,
+              53845,
+              55005,
+              55297,
+              55758,
+              56285,
+              59575,
+              59622,
+              59623,
+              59625,
+              59626,
+              61138,
+              61139,
+              64527,
+              64528,
+              64838,
+              64984,
+              65095,
+              65561,
+              65708,
+              66014,
+              66015,
+              66016,
+              66017,
+              66018,
+              66019,
+              66020,
+              66021,
+              66022,
+              66023,
+              66024,
+              66025,
+              66026,
+              66027,
+              66028,
+              66029,
+              66030,
+              66031,
+              66032,
+              66033,
+              66034,
+              66035,
+              66036,
+              66037,
+              66038,
+              66039,
+              67846,
+              67850,
+              67851,
+              67852,
+              67853,
+              69893,
+              70027,
+              70028,
+              70029,
+              70030,
+              73248,
+              73266,
+              73281,
+              73282,
+              73370,
+              73589,
+              73599,
+              73625,
+              73627,
+              73629,
+              73631,
+              73635,
+              73639,
+              73643,
+              73647,
+              73651,
+              73655,
+              73659,
+              73663,
+              73667,
+              73671,
+              73675,
+              73679,
+              73683,
+              73687,
+              75009,
+              75229,
+              75230,
+              75231,
+              75232,
+              76082,
+              78450,
+              78451,
+              78452,
+              78453,
+              78454,
+              78455,
+              78456,
+              78457,
+              78519,
+              80203,
+              85213,
+              85214,
+              85216,
+              85217,
+              85218,
+              85219,
+              85220,
+              85221,
+              85222,
+              85223,
+              85224,
+              85225,
+              85226,
+              86917,
+              89476,
+              91768,
+              92426,
+              93391,
+              98168,
+              104920,
+              106236,
+              114505,
+              122093,
+              141843,
+              144168,
+              146506,
+              146765,
+              149584,
+              150608,
+              175979,
+              183128,
+              184887,
+              185476,
+              188261,
+              189606,
+              189607,
+              191015,
+              193151,
+              195359,
+              198986,
+              202111,
+              207858,
+              207893,
+              210377,
+              218802
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "nebraska.lib.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1419?1495727939"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#1b4065",
+                "rgb": {
+                  "blue": 101,
+                  "green": 64,
+                  "red": 27
+                }
+              },
+              "secondaryColor": {
+                "hex": "#6aa035",
+                "rgb": {
+                  "blue": 53,
+                  "green": 160,
+                  "red": 106
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "NE"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 9.141844
+      },
+      {
+        "id": 219310,
+        "name": "Lexington Public Library District",
+        "address": "207 S Cedar St",
+        "city": "Lexington",
+        "regionCode": "IL",
+        "region": "Illinois",
+        "postalCode": "61753-1392",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 40.64057,
+        "longitude": -88.783264,
+        "links": [
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.lexington.lib.il.us/"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "lexingtonl@yahoo.com"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1894
+        ],
+        "systems": [
+          {
+            "id": 1894,
+            "websiteId": 427,
+            "type": "Public Library",
+            "name": "Alliance Digital Media Library",
+            "fulfillmentId": "allianceil",
+            "branchIds": [
+              42832,
+              43409,
+              43752,
+              46069,
+              47369,
+              49779,
+              50188,
+              50328,
+              50547,
+              50667,
+              51400,
+              51656,
+              52266,
+              53465,
+              53677,
+              53740,
+              54654,
+              57347,
+              57352,
+              57354,
+              57371,
+              57377,
+              57391,
+              57428,
+              57465,
+              57505,
+              57508,
+              57510,
+              57527,
+              57534,
+              57583,
+              57593,
+              57611,
+              57654,
+              57655,
+              57660,
+              57685,
+              57686,
+              58589,
+              61119,
+              61120,
+              61121,
+              61122,
+              61123,
+              61124,
+              61125,
+              61126,
+              61127,
+              61128,
+              62550,
+              62551,
+              62552,
+              65705,
+              65706,
+              65707,
+              66539,
+              66540,
+              71116,
+              71117,
+              71120,
+              71129,
+              72368,
+              72372,
+              73974,
+              73982,
+              74100,
+              82761,
+              82762,
+              82763,
+              82764,
+              82765,
+              82766,
+              82767,
+              82768,
+              82771,
+              122356,
+              123658,
+              191144,
+              194214,
+              219049,
+              219068,
+              219089,
+              219104,
+              219106,
+              219138,
+              219141,
+              219154,
+              219159,
+              219167,
+              219177,
+              219185,
+              219190,
+              219198,
+              219205,
+              219220,
+              219227,
+              219236,
+              219246,
+              219273,
+              219291,
+              219310,
+              219312,
+              219324,
+              219325,
+              219339,
+              219359,
+              219369,
+              219386,
+              219404,
+              219417,
+              219422,
+              219431,
+              219541,
+              219542,
+              219571
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "alliance.lib.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1894?1722350568"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#205d91",
+                "rgb": {
+                  "blue": 145,
+                  "green": 93,
+                  "red": 32
+                }
+              },
+              "secondaryColor": {
+                "hex": "#197820",
+                "rgb": {
+                  "blue": 32,
+                  "green": 120,
+                  "red": 25
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "IL"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 8.281456
+      },
+      {
+        "id": 43263,
+        "name": "Batesburg-Leesville",
+        "address": "203 Armory St",
+        "city": "Batesburg-Leesville",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29006",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.840233,
+        "longitude": -81.537701,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 44155,
+        "name": "Cayce-West Columbia",
+        "address": "1500 Augusta Road",
+        "city": "West Columbia",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29169",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.996489,
+        "longitude": -81.086503,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 44265,
+        "name": "Chapin",
+        "address": "129 NW Columbia Ave",
+        "city": "Chapin",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29036",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 34.134655,
+        "longitude": -81.317936,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 46017,
+        "name": "Gaston",
+        "address": "214 S Main St.",
+        "city": "Gaston",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29053",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.853453,
+        "longitude": -81.09754,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 46079,
+        "name": "Gilbert-Summit",
+        "address": "405 Broad St",
+        "city": "Gilbert",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29054",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.9506,
+        "longitude": -81.372937,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 46944,
+        "name": "Irmo",
+        "address": "6251 St Andrews Rd.",
+        "city": "Columbia",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29212",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 34.072357,
+        "longitude": -81.218835,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 49858,
+        "name": "Pelion",
+        "address": "206 Pine St",
+        "city": "Pelion",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29123",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.763374,
+        "longitude": -81.261223,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 51237,
+        "name": "South Congaree-Pine Ridge",
+        "address": "200 Sunset Dr.",
+        "city": "West Columbia",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29172",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.907753,
+        "longitude": -81.081299,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 51690,
+        "name": "Swansea",
+        "address": "199 N Lawrence Ave",
+        "city": "Swansea",
+        "regionCode": "SC",
+        "region": "South Carolina",
+        "postalCode": "29160",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 33.729458,
+        "longitude": -81.092392,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1420
+        ],
+        "systems": [
+          {
+            "id": 1420,
+            "websiteId": 274,
+            "type": "Public Library",
+            "name": "Lexington County Public Library System",
+            "fulfillmentId": "lexington",
+            "branchIds": [
+              43263,
+              44155,
+              44265,
+              46017,
+              46079,
+              46944,
+              49858,
+              51237,
+              51690,
+              54989
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/lexingtoncountypubliclibrary"
+              },
+              {
+                "name": "Twitter",
+                "url": "https://twitter.com/LexCoLibrary"
+              },
+              {
+                "name": "LibraryCardAquisitionUrl",
+                "url": "https://lexcolibrary.com/using-the-library/get-a-card/"
+              },
+              {
+                "name": "LibraryDonationUrl",
+                "url": "https://lexcolibrary.com/support-us/"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "lex.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://lexcolibrary.com/"
+              },
+              {
+                "name": "LibrarySupportEmail",
+                "url": "askreflib@lex.lib.sc.us"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1420?1558033422"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#444444",
+                "rgb": {
+                  "blue": 68,
+                  "green": 68,
+                  "red": 68
+                }
+              },
+              "secondaryColor": {
+                "hex": "#36589b",
+                "rgb": {
+                  "blue": 155,
+                  "green": 88,
+                  "red": 54
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "SC"
+            ],
+            "isConsortium": false,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 7.6243362
+      },
+      {
+        "id": 51917,
+        "name": "Trails Regional Library - Lexington Branch",
+        "address": "1008 Main Street",
+        "phoneNumber": "(660) 259-3071",
+        "city": "Lexington",
+        "regionCode": "MO",
+        "region": "Missouri",
+        "postalCode": "64067",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 39.148968,
+        "longitude": -93.834694,
+        "links": [
+          {
+            "name": "BranchLibraryUrl",
+            "url": "http://trailslibrary.org/"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "website@trailslibrary.org"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/trailsregional"
+          },
+          {
+            "name": "Twitter",
+            "url": "https://twitter.com/trailsregional"
+          },
+          {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/user/TrailsLibraryVideos"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          2230
+        ],
+        "systems": [
+          {
+            "id": 2230,
+            "websiteId": 538,
+            "type": "Public Library",
+            "name": "Missouri Libraries 2Go",
+            "fulfillmentId": "missouripldc",
+            "branchIds": [
+              42749,
+              43614,
+              43615,
+              43616,
+              43617,
+              44031,
+              44895,
+              44896,
+              46431,
+              48728,
+              49252,
+              49624,
+              50974,
+              51482,
+              51483,
+              51484,
+              51485,
+              51913,
+              51914,
+              51915,
+              51916,
+              51917,
+              51918,
+              51919,
+              51920,
+              56860,
+              58448,
+              58455,
+              58507,
+              58703,
+              59231,
+              59270,
+              59275,
+              59503,
+              59576,
+              59852,
+              59853,
+              59854,
+              59855,
+              59913,
+              60068,
+              60424,
+              60848,
+              61034,
+              61456,
+              61457,
+              61458,
+              61459,
+              61460,
+              61642,
+              61892,
+              61899,
+              62011,
+              62077,
+              62599,
+              62966,
+              63677,
+              63678,
+              63699,
+              65245,
+              65366,
+              66876,
+              66877,
+              66878,
+              67502,
+              67503,
+              67673,
+              67809,
+              68078,
+              68867,
+              68950,
+              69144,
+              69145,
+              69146,
+              69147,
+              69837,
+              70046,
+              70047,
+              70580,
+              70583,
+              70584,
+              70585,
+              70966,
+              70967,
+              70968,
+              70969,
+              70970,
+              70971,
+              70972,
+              71969,
+              71970,
+              71971,
+              73126,
+              73142,
+              73536,
+              73540,
+              73822,
+              73823,
+              73941,
+              73942,
+              73943,
+              74051,
+              74945,
+              75245,
+              75389,
+              75390,
+              75391,
+              75392,
+              75394,
+              76321,
+              76457,
+              78517,
+              79601,
+              79602,
+              79603,
+              79604,
+              79605,
+              79606,
+              79607,
+              79608,
+              79609,
+              79610,
+              80045,
+              80114,
+              80724,
+              83668,
+              83671,
+              83672,
+              83832,
+              83844,
+              84323,
+              86028,
+              87131,
+              87310,
+              87473,
+              87488,
+              87694,
+              88752,
+              89096,
+              90304,
+              90305,
+              90306,
+              90743,
+              91172,
+              91192,
+              91193,
+              91194,
+              91195,
+              91196,
+              91786,
+              94271,
+              94272,
+              94278,
+              94279,
+              94280,
+              94281,
+              94282,
+              94283,
+              94284,
+              94285,
+              95365,
+              97814,
+              98962,
+              98983,
+              99306,
+              104939,
+              104940,
+              104941,
+              106120,
+              106121,
+              106122,
+              106123,
+              106124,
+              107736,
+              107737,
+              108526,
+              124021,
+              124310,
+              124311,
+              134266,
+              145672,
+              149538,
+              149539,
+              149540,
+              149541,
+              171808,
+              176534,
+              182867,
+              182868,
+              182884,
+              182902,
+              184915,
+              187737,
+              191154,
+              194172,
+              208199,
+              208223,
+              209076,
+              216810
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "molib2go.lib.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logos/crushed/2230.png?1"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#0071bc",
+                "rgb": {
+                  "blue": 188,
+                  "green": 113,
+                  "red": 0
+                }
+              },
+              "secondaryColor": {
+                "hex": "#666666",
+                "rgb": {
+                  "blue": 102,
+                  "green": 102,
+                  "red": 102
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "MO"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 6.585531
+      },
+      {
+        "id": 47692,
+        "name": "St. Mary's County Library: Lexington Park Branch",
+        "address": "21677 Fdr Blvd",
+        "phoneNumber": "301-863-8188",
+        "city": "Lexington Park",
+        "regionCode": "MD",
+        "region": "Maryland",
+        "postalCode": "20653",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 38.261616,
+        "longitude": -76.457225,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://www.stmalib.org/about-us/donate-to-the-library/"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.stmalib.org/"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.stmalib.org/library-services/library-card/"
+          },
+          {
+            "name": "BranchSupportUrl",
+            "url": "https://library.carr.org/forms/dig_supp.asp"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/stmaryslibrary"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          831
+        ],
+        "systems": [
+          {
+            "id": 831,
+            "websiteId": 51,
+            "type": "Public Library",
+            "name": "Maryland's Digital Library",
+            "fulfillmentId": "maryland",
+            "branchIds": [
+              42727,
+              42734,
+              42967,
+              43342,
+              43764,
+              43767,
+              43795,
+              43797,
+              43827,
+              43919,
+              44019,
+              44161,
+              44288,
+              44329,
+              44338,
+              44509,
+              44792,
+              44883,
+              45223,
+              45302,
+              45328,
+              45332,
+              45344,
+              45404,
+              45430,
+              45486,
+              45648,
+              45673,
+              45733,
+              45802,
+              46129,
+              46177,
+              46397,
+              46415,
+              46506,
+              46590,
+              46639,
+              47039,
+              47145,
+              47417,
+              47692,
+              47737,
+              47925,
+              48344,
+              48610,
+              48678,
+              48884,
+              48906,
+              49183,
+              49210,
+              49219,
+              49231,
+              49387,
+              49691,
+              49817,
+              49881,
+              49915,
+              50123,
+              50161,
+              50236,
+              50439,
+              50519,
+              50546,
+              50627,
+              50902,
+              51006,
+              51198,
+              51239,
+              51332,
+              51545,
+              51726,
+              51830,
+              51977,
+              52051,
+              52188,
+              52197,
+              52301,
+              52342,
+              52435,
+              52575,
+              52648,
+              52866,
+              52988,
+              53021,
+              53529,
+              53585,
+              53590,
+              53605,
+              53635,
+              54095,
+              54235,
+              54463,
+              54609,
+              54816,
+              56126,
+              56637,
+              56738,
+              56799,
+              57054,
+              63437,
+              63438,
+              63439,
+              63440,
+              63441,
+              63442,
+              63443,
+              63444,
+              63445,
+              63449,
+              63450,
+              63451,
+              63452,
+              63453,
+              63454,
+              63455,
+              63456,
+              63457,
+              63458,
+              63459,
+              63460,
+              63461,
+              63462,
+              97976,
+              97977,
+              102441,
+              104674,
+              109919
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "maryland.lib.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/831?1679056981"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#b20000",
+                "rgb": {
+                  "blue": 0,
+                  "green": 0,
+                  "red": 178
+                }
+              },
+              "secondaryColor": {
+                "hex": "#0c5d94",
+                "rgb": {
+                  "blue": 148,
+                  "green": 93,
+                  "red": 12
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "MD"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 5.528717
+      },
+      {
+        "id": 53889,
+        "name": "Davidson County Public Library System",
+        "address": "602 South Main Street",
+        "phoneNumber": "336-242-2040",
+        "city": "Lexington",
+        "regionCode": "NC",
+        "region": "North Carolina",
+        "postalCode": "27292-3239",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 35.819136,
+        "longitude": -80.259482,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "http://smile.amazon.com/ch/58-1539146"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "http://www.co.davidson.nc.us/library"
+          },
+          {
+            "name": "BranchCardAcquisitionUrl",
+            "url": "https://www.co.davidson.nc.us/899/Join-the-Library"
+          },
+          {
+            "name": "BranchSupportUrl",
+            "url": "https://www.co.davidson.nc.us/324/eBooks-eAudio-Books"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "sheila.killebrew@davidsoncountync.gov"
+          },
+          {
+            "name": "Facebook",
+            "url": "http://www.facebook.com/lexingtonpubliclibrarync"
+          },
+          {
+            "name": "YouTube",
+            "url": "https://www.youtube.com/user/lexingtonlib"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1075
+        ],
+        "systems": [
+          {
+            "id": 1075,
+            "websiteId": 95,
+            "type": "Public Library",
+            "name": "North Carolina Digital Library",
+            "fulfillmentId": "northcarolina",
+            "branchIds": [
+              43386,
+              43453,
+              43510,
+              44020,
+              44121,
+              44264,
+              44337,
+              44434,
+              44484,
+              44665,
+              44816,
+              44847,
+              45207,
+              45252,
+              45348,
+              45502,
+              45548,
+              45654,
+              45714,
+              45731,
+              45755,
+              45768,
+              46229,
+              46270,
+              46618,
+              46786,
+              47314,
+              47640,
+              47689,
+              47759,
+              48065,
+              48153,
+              48162,
+              48191,
+              48684,
+              48834,
+              48888,
+              49133,
+              49190,
+              49700,
+              49810,
+              50453,
+              50503,
+              50713,
+              51086,
+              51214,
+              51230,
+              51289,
+              51344,
+              51357,
+              51504,
+              51517,
+              51688,
+              52003,
+              52155,
+              52198,
+              52359,
+              52365,
+              52410,
+              53061,
+              53512,
+              53600,
+              53751,
+              53752,
+              53753,
+              53754,
+              53755,
+              53756,
+              53757,
+              53759,
+              53889,
+              54205,
+              54298,
+              54491,
+              54507,
+              54529,
+              55628,
+              55804,
+              56257,
+              56544,
+              56863,
+              71312,
+              118170,
+              118218,
+              118219,
+              118220,
+              118221,
+              118222,
+              118223,
+              127269,
+              141113
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "https://ncdigital.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1075?1656431084"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#3b4d61",
+                "rgb": {
+                  "blue": 97,
+                  "green": 77,
+                  "red": 59
+                }
+              },
+              "secondaryColor": {
+                "hex": "#ef9d10",
+                "rgb": {
+                  "blue": 16,
+                  "green": 157,
+                  "red": 239
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "NC"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 3.921662
+      },
+      {
+        "id": 56403,
+        "name": "Hatchie River Region - Everett Horn Public Library",
+        "address": "702 W Church St",
+        "city": "Lexington",
+        "regionCode": "TN",
+        "region": "Tennessee",
+        "postalCode": "38351-1236",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 35.658502,
+        "longitude": -88.415692,
+        "links": [
+          {
+            "name": "BranchSupportEmail",
+            "url": "reads.support@tn.gov"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1068
+        ],
+        "systems": [
+          {
+            "id": 1068,
+            "websiteId": 93,
+            "type": "Public Library",
+            "name": "Tennessee READS",
+            "fulfillmentId": "tennessee",
+            "branchIds": [
+              43414,
+              45351,
+              45452,
+              47389,
+              48498,
+              48930,
+              49902,
+              51014,
+              53341,
+              53342,
+              53343,
+              53344,
+              53345,
+              53346,
+              53347,
+              53348,
+              53349,
+              53350,
+              53351,
+              53352,
+              53353,
+              53354,
+              53355,
+              53356,
+              53357,
+              53358,
+              53359,
+              53360,
+              53362,
+              53363,
+              53364,
+              53366,
+              53367,
+              53368,
+              53544,
+              53545,
+              53546,
+              53547,
+              53548,
+              53549,
+              53550,
+              53551,
+              53552,
+              53553,
+              53554,
+              53555,
+              53556,
+              53557,
+              53558,
+              53717,
+              53718,
+              53719,
+              53720,
+              53721,
+              53722,
+              53723,
+              53724,
+              53725,
+              53726,
+              53728,
+              53729,
+              53730,
+              53731,
+              53732,
+              53733,
+              53734,
+              53735,
+              53736,
+              54192,
+              54193,
+              54194,
+              54195,
+              54196,
+              54197,
+              54198,
+              54199,
+              54200,
+              54201,
+              54202,
+              54203,
+              54248,
+              54250,
+              54251,
+              54252,
+              54253,
+              54254,
+              54256,
+              54257,
+              54258,
+              54259,
+              54260,
+              54261,
+              54262,
+              54263,
+              54264,
+              54265,
+              54267,
+              54268,
+              54269,
+              54270,
+              54271,
+              54272,
+              54273,
+              54541,
+              54542,
+              54543,
+              54544,
+              54545,
+              54546,
+              54547,
+              54548,
+              54549,
+              54550,
+              54551,
+              54552,
+              54553,
+              54554,
+              54555,
+              54556,
+              55671,
+              55672,
+              55673,
+              55674,
+              55675,
+              55676,
+              55677,
+              55678,
+              55679,
+              55681,
+              55682,
+              55683,
+              55684,
+              55685,
+              55686,
+              55687,
+              55689,
+              55690,
+              55691,
+              55692,
+              56169,
+              56170,
+              56171,
+              56172,
+              56173,
+              56174,
+              56175,
+              56176,
+              56177,
+              56178,
+              56179,
+              56180,
+              56181,
+              56401,
+              56402,
+              56403,
+              56405,
+              56406,
+              56407,
+              56408,
+              56409,
+              56410,
+              56411,
+              56923,
+              56924,
+              56925,
+              56926,
+              56927,
+              56928,
+              56929,
+              56930,
+              56932,
+              56933,
+              56934,
+              56935,
+              56936,
+              56937,
+              56938,
+              57021,
+              57022,
+              57023,
+              57024,
+              57025,
+              57026,
+              57027,
+              57028,
+              57029,
+              57030,
+              57031,
+              57032,
+              57033,
+              57060,
+              57061,
+              57062,
+              57063,
+              57064,
+              57065,
+              57066,
+              57067,
+              57068,
+              57069,
+              57070,
+              57071,
+              57072,
+              57073,
+              57074,
+              57075,
+              62573,
+              71413,
+              75271,
+              75272,
+              80202,
+              80251,
+              80490,
+              83763,
+              90329,
+              90868,
+              91170,
+              117376,
+              117457,
+              121381,
+              216375,
+              216608
+            ],
+            "links": [
+              {
+                "name": "Facebook",
+                "url": "https://www.facebook.com/somervillefayettelibrary"
+              },
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "reads.lib.overdrive.com"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "http://www.fayettetn.us/library"
+              },
+              {
+                "name": "LibrarySupportUrl",
+                "url": "https://reads.overdrive.com/support/members"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logos/crushed/1068.png?1"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#010066",
+                "rgb": {
+                  "blue": 102,
+                  "green": 0,
+                  "red": 1
+                }
+              },
+              "secondaryColor": {
+                "hex": "#476cb7",
+                "rgb": {
+                  "blue": 183,
+                  "green": 108,
+                  "red": 71
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "TN",
+              "VA"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 3.921662
+      },
+      {
+        "id": 61358,
+        "name": "Rockbridge Regional Library",
+        "address": "138 S Main St",
+        "phoneNumber": "540-463-4324",
+        "city": "Lexington",
+        "regionCode": "VA",
+        "region": "Virginia",
+        "postalCode": "24450-2316",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 37.783173,
+        "longitude": -79.443375,
+        "links": [
+          {
+            "name": "BranchLibraryUrl",
+            "url": "https://www.rrlib.net/"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "rrl@rrlib.net"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1369
+        ],
+        "systems": [
+          {
+            "id": 1369,
+            "websiteId": 252,
+            "type": "Public Library",
+            "name": "Blue Ridge Download Consortium",
+            "fulfillmentId": "culpeper",
+            "branchIds": [
+              42999,
+              43654,
+              44439,
+              46535,
+              53858,
+              54455,
+              59620,
+              59805,
+              61353,
+              61354,
+              61355,
+              61356,
+              61358,
+              61508,
+              61509,
+              61512,
+              61513,
+              61514,
+              61515,
+              61516,
+              61517,
+              61518,
+              61519,
+              61520,
+              63081,
+              66723,
+              66724,
+              68941
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "brdc.lib.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logos/crushed/1369.png?1"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#1a301a",
+                "rgb": {
+                  "blue": 26,
+                  "green": 48,
+                  "red": 26
+                }
+              },
+              "secondaryColor": {
+                "hex": "#627d62",
+                "rgb": {
+                  "blue": 98,
+                  "green": 125,
+                  "red": 98
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "VA"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 3.921662
+      },
+      {
+        "id": 99266,
+        "name": "Davidson County Public Library System",
+        "address": "602 South Main Street",
+        "city": "Lexington",
+        "regionCode": "NC",
+        "region": "North Carolina",
+        "postalCode": "27292",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 35.819057,
+        "longitude": -80.259949,
+        "links": [
+          {
+            "name": "BranchLibraryUrl",
+            "url": "http://www.co.davidson.nc.us/library"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "ruth.copley@davidsoncountync.gov"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          7298
+        ],
+        "systems": [
+          {
+            "id": 7298,
+            "websiteId": 100680,
+            "type": "Public Library",
+            "name": "NC Kids Digital Library",
+            "fulfillmentId": "nckids",
+            "branchIds": [
+              99192,
+              99193,
+              99194,
+              99196,
+              99197,
+              99198,
+              99199,
+              99200,
+              99201,
+              99202,
+              99203,
+              99204,
+              99205,
+              99206,
+              99207,
+              99208,
+              99209,
+              99210,
+              99211,
+              99212,
+              99213,
+              99214,
+              99215,
+              99216,
+              99217,
+              99218,
+              99219,
+              99220,
+              99221,
+              99222,
+              99223,
+              99224,
+              99225,
+              99226,
+              99227,
+              99228,
+              99229,
+              99230,
+              99231,
+              99233,
+              99234,
+              99235,
+              99236,
+              99237,
+              99238,
+              99240,
+              99241,
+              99242,
+              99243,
+              99244,
+              99245,
+              99246,
+              99247,
+              99248,
+              99249,
+              99250,
+              99251,
+              99252,
+              99253,
+              99254,
+              99255,
+              99256,
+              99257,
+              99258,
+              99259,
+              99260,
+              99261,
+              99262,
+              99263,
+              99264,
+              99265,
+              99266,
+              99267,
+              99268,
+              99779,
+              100246,
+              100294,
+              100368,
+              100374,
+              103320,
+              103321,
+              103322,
+              103323,
+              103324,
+              103325,
+              103326,
+              103328,
+              103534,
+              113386,
+              120477,
+              125599,
+              127270,
+              220334,
+              221441
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "nckids.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logos/crushed/7298.png?1"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#f37c20",
+                "rgb": {
+                  "blue": 32,
+                  "green": 124,
+                  "red": 243
+                }
+              },
+              "secondaryColor": {
+                "hex": "#0092d7",
+                "rgb": {
+                  "blue": 215,
+                  "green": 146,
+                  "red": 0
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "NC"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 3.921662
+      },
+      {
+        "id": 105689,
+        "name": "Cary Memorial Library",
+        "address": "1874 Massachusetts Ave",
+        "city": "Lexington",
+        "regionCode": "MA",
+        "region": "Massachusetts",
+        "postalCode": "02420",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 42.448071,
+        "longitude": -71.229634,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1758
+        ],
+        "systems": [
+          {
+            "id": 1758,
+            "websiteId": 410,
+            "type": "Public Library",
+            "name": "Minuteman Library Network",
+            "fulfillmentId": "minuteman",
+            "branchIds": [
+              48865,
+              49017,
+              49500,
+              49566,
+              50309,
+              51205,
+              51206,
+              51207,
+              52316,
+              52383,
+              52384,
+              52600,
+              61598,
+              105680,
+              105681,
+              105682,
+              105683,
+              105684,
+              105685,
+              105686,
+              105687,
+              105689,
+              105691,
+              105693,
+              105695,
+              105698,
+              105700,
+              105702,
+              105705,
+              105707,
+              105710,
+              105713,
+              105717,
+              105721,
+              105723,
+              105724,
+              105728,
+              105730,
+              105740,
+              105742,
+              105746,
+              105747,
+              105752,
+              105755,
+              105757,
+              105759,
+              105764,
+              105767,
+              105769,
+              105772,
+              105779,
+              105783,
+              105784,
+              105786,
+              105787,
+              105789,
+              105791,
+              105792,
+              105794,
+              105796,
+              141899,
+              196232,
+              197275,
+              118877,
+              120015,
+              124321
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "digital.minlib.net"
+              },
+              {
+                "name": "MainLibraryUrl",
+                "url": "https://www.minlib.net/"
+              },
+              {
+                "name": "LibrarySupportUrl",
+                "url": "https://www.minlib.net/contact"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/1758?1722604063"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#7680af",
+                "rgb": {
+                  "blue": 175,
+                  "green": 128,
+                  "red": 118
+                }
+              },
+              "secondaryColor": {
+                "hex": "#47548f",
+                "rgb": {
+                  "blue": 143,
+                  "green": 84,
+                  "red": 71
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "MA"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 3.921662
+      },
+      {
+        "id": 199414,
+        "name": "Moore Public Library",
+        "address": "7239 Huron Ave",
+        "phoneNumber": "(810) 359-8267",
+        "city": "Lexington",
+        "regionCode": "MI",
+        "region": "Michigan",
+        "postalCode": "48450",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 43.26842,
+        "longitude": -82.53198,
+        "links": [
+          {
+            "name": "BranchDonationUrl",
+            "url": "https://moore-public-library.square.site/"
+          },
+          {
+            "name": "BranchLibraryUrl",
+            "url": "http://moorepubliclibrary.org"
+          },
+          {
+            "name": "BranchSupportEmail",
+            "url": "lex_ill@yahoo.com"
+          },
+          {
+            "name": "Facebook",
+            "url": "https://www.facebook.com/profile.php?id=100069345025524"
+          }
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          1856
+        ],
+        "systems": [
+          {
+            "id": 1856,
+            "websiteId": 422,
+            "type": "Public Library",
+            "name": "White Pine Library Cooperative",
+            "fulfillmentId": "whitepine",
+            "branchIds": [
+              45011,
+              46095,
+              46929,
+              46930,
+              46931,
+              46932,
+              46933,
+              46934,
+              46935,
+              46936,
+              49515,
+              49516,
+              199393,
+              199394,
+              199395,
+              199396,
+              199397,
+              199398,
+              199399,
+              199400,
+              199401,
+              199402,
+              199403,
+              199404,
+              199405,
+              199406,
+              199407,
+              199408,
+              199409,
+              199410,
+              199411,
+              199412,
+              199413,
+              199414,
+              199415,
+              199416,
+              199417,
+              199418,
+              199419,
+              199420,
+              199421,
+              199422,
+              199423,
+              199424,
+              199425,
+              199426,
+              199427,
+              199428,
+              199429,
+              199430,
+              199431,
+              199432,
+              199433,
+              199434,
+              199436,
+              199809,
+              204955,
+              214901,
+              44932,
+              56865,
+              79735,
+              87403,
+              125604,
+              127914
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "fuelyourmind.lib.overdrive.com"
+              },
+              {
+                "name": "LibrarySupportUrl",
+                "url": "https://frontline.overdrive.com/?Lib=White%20Pine%20Library%20Cooperative&_ga=1.76754460.824edc5c-48fc-4b1e-91b7-6e4674350e49"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logos/crushed/1856.png?1"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#3e3a5b",
+                "rgb": {
+                  "blue": 91,
+                  "green": 58,
+                  "red": 62
+                }
+              },
+              "secondaryColor": {
+                "hex": "#004c01",
+                "rgb": {
+                  "blue": 1,
+                  "green": 76,
+                  "red": 0
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "MI"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 3.921662
+      },
+      {
+        "id": 217036,
+        "name": "Davidson County Public Library System",
+        "address": "602 South Main Street",
+        "city": "Lexington",
+        "regionCode": "NC",
+        "region": "North Carolina",
+        "postalCode": "27292",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 35.819136,
+        "longitude": -80.259482,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          16253
+        ],
+        "systems": [
+          {
+            "id": 16253,
+            "websiteId": 380144,
+            "type": "Public Library",
+            "name": "NC Kids Level Up",
+            "fulfillmentId": "nckidslevelup",
+            "branchIds": [
+              215932,
+              216902,
+              216960,
+              216961,
+              216963,
+              216968,
+              216969,
+              216971,
+              216974,
+              216975,
+              216976,
+              216977,
+              216978,
+              216979,
+              216980,
+              216983,
+              216984,
+              216986,
+              216990,
+              216992,
+              216995,
+              216996,
+              216997,
+              217003,
+              217004,
+              217005,
+              217012,
+              217017,
+              217018,
+              217020,
+              217022,
+              217024,
+              217027,
+              217031,
+              217032,
+              217034,
+              217036,
+              217038,
+              217040,
+              217042,
+              217043,
+              217053,
+              217055,
+              217056,
+              217057,
+              217058,
+              217060,
+              217062,
+              217063,
+              217066,
+              217067,
+              217068,
+              217069,
+              217070,
+              217071,
+              217072,
+              217073,
+              217074,
+              217077,
+              217079,
+              217082,
+              217083,
+              217084,
+              217085,
+              217090,
+              217092,
+              217094,
+              217095,
+              217099,
+              217100,
+              217101,
+              217102,
+              217103,
+              217105,
+              217107,
+              217109,
+              217110,
+              217111,
+              217115,
+              217116,
+              217118,
+              217119,
+              217122,
+              217123,
+              217124,
+              217125,
+              217126,
+              217127,
+              217136,
+              217137,
+              217138,
+              217139,
+              217140,
+              217142
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "nckidslevelup.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logo-resized/16253?1720726336"
+                }
+              ]
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "NC"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 3.921662
+      },
+      {
+        "id": 56002,
+        "name": "Perry County District Library",
+        "address": "117 S Jackson St",
+        "phoneNumber": "740.342.4194",
+        "city": "New Lexington",
+        "regionCode": "OH",
+        "region": "Ohio",
+        "postalCode": "43764-1382",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 39.713981,
+        "longitude": -82.206075,
+        "links": [
+          {
+            "name": "BranchLibraryUrl",
+            "url": "http://www.pcdl.org/"
+          },
+          {
+            "name": "BranchSupportUrl",
+            "url": "http://servingeveryohioan.org/ohio-digital-library-patron-support/"
+          }
+        ],
+        "isMemberInstantAccessSystem": true,
+        "systemIds": [
+          660
+        ],
+        "systems": [
+          {
+            "id": 660,
+            "websiteId": 76,
+            "type": "Public Library",
+            "name": "The Ohio Digital Library",
+            "fulfillmentId": "stateofohio",
+            "branchIds": [
+              42997,
+              43056,
+              43057,
+              43118,
+              43119,
+              43120,
+              43121,
+              43122,
+              43161,
+              44376,
+              44377,
+              44378,
+              44379,
+              44380,
+              44381,
+              44442,
+              44443,
+              44444,
+              44445,
+              44485,
+              44486,
+              44487,
+              44488,
+              44489,
+              44490,
+              44491,
+              44492,
+              44493,
+              44494,
+              44622,
+              44833,
+              44967,
+              44968,
+              44969,
+              46071,
+              46587,
+              47306,
+              47529,
+              47530,
+              47531,
+              47532,
+              47617,
+              47746,
+              47747,
+              47748,
+              47749,
+              47751,
+              47752,
+              48055,
+              48339,
+              48358,
+              48364,
+              49209,
+              49677,
+              50153,
+              50154,
+              50155,
+              50157,
+              50158,
+              50284,
+              50287,
+              50995,
+              51052,
+              51053,
+              51054,
+              51055,
+              51056,
+              51057,
+              51131,
+              51527,
+              51528,
+              51529,
+              51530,
+              51531,
+              51532,
+              51533,
+              51534,
+              51535,
+              51536,
+              51834,
+              52165,
+              52276,
+              52277,
+              52278,
+              52279,
+              52280,
+              52281,
+              52555,
+              52870,
+              52946,
+              52948,
+              52983,
+              53096,
+              53130,
+              53246,
+              53333,
+              53397,
+              53466,
+              53513,
+              53540,
+              53582,
+              53589,
+              53676,
+              53698,
+              53704,
+              53710,
+              53804,
+              53827,
+              53874,
+              53902,
+              53918,
+              53940,
+              54164,
+              54190,
+              54216,
+              54232,
+              54379,
+              54420,
+              54462,
+              54468,
+              54564,
+              54574,
+              54578,
+              54797,
+              54915,
+              54991,
+              55004,
+              55136,
+              55239,
+              55268,
+              55336,
+              55450,
+              55471,
+              55487,
+              55517,
+              55525,
+              55537,
+              55581,
+              55624,
+              55632,
+              55633,
+              55647,
+              55698,
+              55702,
+              55759,
+              55974,
+              56002,
+              56077,
+              56116,
+              56122,
+              56218,
+              56236,
+              56255,
+              56293,
+              56368,
+              56393,
+              56619,
+              56636,
+              56652,
+              56655,
+              56728,
+              56834,
+              56891,
+              56904,
+              56941,
+              57056,
+              57086,
+              57090,
+              57094,
+              57163,
+              57206,
+              57212,
+              57282,
+              58773,
+              58778,
+              58858,
+              59474,
+              59477,
+              59478,
+              59662,
+              59752,
+              59754,
+              59756,
+              59806,
+              59826,
+              59828,
+              59893,
+              59894,
+              59895,
+              59896,
+              59897,
+              59898,
+              59899,
+              59900,
+              59901,
+              59902,
+              59932,
+              59936,
+              59937,
+              61373,
+              61374,
+              61375,
+              61493,
+              61494,
+              61495,
+              61496,
+              61497,
+              61498,
+              61499,
+              61500,
+              61645,
+              61656,
+              63085,
+              63086,
+              63087,
+              63088,
+              63089,
+              63090,
+              63091,
+              63092,
+              63094,
+              63095,
+              63096,
+              63097,
+              63295,
+              63543,
+              63544,
+              63545,
+              63546,
+              63547,
+              63548,
+              63549,
+              63550,
+              63551,
+              63552,
+              63553,
+              63554,
+              63555,
+              63556,
+              63557,
+              63558,
+              66012,
+              66073,
+              66074,
+              66305,
+              66306,
+              66307,
+              67961,
+              68817,
+              68818,
+              68819,
+              68820,
+              68822,
+              68824,
+              68966,
+              71133,
+              71134,
+              71135,
+              71136,
+              71137,
+              72391,
+              73958,
+              73959,
+              73960,
+              73961,
+              73962,
+              73983,
+              75200,
+              75201,
+              75219,
+              75220,
+              75661,
+              76522,
+              76523,
+              77237,
+              79155,
+              82745,
+              85306,
+              85307,
+              85308,
+              85309,
+              85310,
+              85792,
+              89345,
+              92902,
+              93581,
+              95086,
+              97985,
+              97986,
+              97987,
+              97988,
+              97989,
+              97994,
+              99310,
+              99386,
+              100454,
+              101296,
+              104718,
+              124257,
+              163323,
+              203252,
+              204675
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "ohdbks.lib.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logos/crushed/660.png?1"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#1e2f61",
+                "rgb": {
+                  "blue": 97,
+                  "green": 47,
+                  "red": 30
+                }
+              },
+              "secondaryColor": {
+                "hex": "#7a1522",
+                "rgb": {
+                  "blue": 34,
+                  "green": 21,
+                  "red": 122
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "OH"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": true,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 2.892252
+      },
+      {
+        "id": 48722,
+        "name": "Mission Library- Family Reading Center",
+        "address": "1098 Lexington St.",
+        "city": "Santa Clara",
+        "regionCode": "CA",
+        "region": "California",
+        "postalCode": "95050",
+        "countryCode": "US",
+        "country": "United States",
+        "latitude": 37.353966,
+        "longitude": -121.952999,
+        "links": [
+  
+        ],
+        "isMemberInstantAccessSystem": false,
+        "systemIds": [
+          910
+        ],
+        "systems": [
+          {
+            "id": 910,
+            "websiteId": 52,
+            "type": "Public Library",
+            "name": "Northern California Digital Library",
+            "fulfillmentId": "califa",
+            "branchIds": [
+              42796,
+              42989,
+              43277,
+              43639,
+              43690,
+              44053,
+              44589,
+              45704,
+              46005,
+              46468,
+              46527,
+              47421,
+              47959,
+              48722,
+              48729,
+              48805,
+              48908,
+              49697,
+              50079,
+              50943,
+              52453,
+              56324,
+              56327,
+              65709,
+              66696,
+              66697,
+              66698,
+              66699,
+              78978,
+              79005,
+              79006,
+              79007,
+              79008,
+              91171,
+              91185,
+              91186,
+              91187,
+              91188,
+              91189,
+              91190,
+              91191,
+              94460,
+              102157,
+              103529,
+              114415,
+              114882,
+              114883,
+              114884,
+              138365,
+              198163,
+              211280,
+              211281,
+              211282
+            ],
+            "links": [
+              {
+                "name": "DigitalLibraryUrl",
+                "url": "ncdl.lib.overdrive.com"
+              }
+            ],
+            "styling": {
+              "logos": [
+                {
+                  "size": "140x60",
+                  "sourceUrl": "https://thunder.cdn.overdrive.com/logos/crushed/910.png?1"
+                }
+              ],
+              "primaryColor": {
+                "hex": "#782417",
+                "rgb": {
+                  "blue": 23,
+                  "green": 36,
+                  "red": 120
+                }
+              },
+              "secondaryColor": {
+                "hex": "#c78c26",
+                "rgb": {
+                  "blue": 38,
+                  "green": 140,
+                  "red": 199
+                }
+              }
+            },
+            "relevance": 1,
+            "countryCode": [
+              "US"
+            ],
+            "regionCode": [
+              "CA"
+            ],
+            "isConsortium": true,
+            "isInstantAccessEnabled": false,
+            "isCanarySite": false
+          }
+        ],
+        "relevance": 1.5971842
+      }
+    ],
+    "total": 39,
+    "count": 30,
+    "offSet": 0,
+    "sortDirection": "relevance"
+  }

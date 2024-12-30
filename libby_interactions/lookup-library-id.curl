@@ -1,0 +1,14 @@
+curl 'https://thunder.api.overdrive.com/v2/libraries/?websiteIds=571&x-client-id=dewey' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US' \
+  -H 'dnt: 1' \
+  -H 'origin: https://libbyapp.com' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://libbyapp.com/' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
