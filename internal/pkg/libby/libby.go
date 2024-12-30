@@ -34,7 +34,7 @@ type LibbyResult struct {
 
 type Libby interface {
 	FindLibrary(string) ([]LibbyLibrary, error)
-	Search(string) ([]LibbyResult, error)
+	Search(query string, maxResults int) ([]LibbyResult, error)
 }
 
 func NewLibby(libraryIDs []string) Libby {
@@ -56,11 +56,11 @@ func (li *LibbyImpl) FindLibrary(string) ([]LibbyLibrary, error) {
 	return nil, errors.ErrUnsupported
 }
 
-func (li *LibbyImpl) Search(query string) ([]LibbyResult, error) {
+func (li *LibbyImpl) Search(query string, maxResults int) ([]LibbyResult, error) {
 	log.Println("Beginning top level search invocation.")
 	var results []LibbyResult
 	for _, lib := range li.libraries {
-		res, err := lib.Search(query)
+		res, err := lib.Search(query, maxResults)
 		if err != nil {
 			return nil, err
 		}

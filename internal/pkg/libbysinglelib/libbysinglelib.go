@@ -78,28 +78,35 @@ func NewLibbySingleLib(libraryID string) *Lib {
 	return lsb
 }
 
-func (lsb *Lib) Search(q string) ([]LibbySearchResponseItem, error) {
-	log.Println("Beginning top level single lib search.")
-	return lsb.searchGetAllPages(q)
+func (lsb *Lib) Search(q string, maxResults int) ([]LibbySearchResponseItem, error) {
+	log.Println("Beginning top levelo single lib search.")
+	return lsb.searchGetAllPagesUntilMax(q, maxResults)
 }
 
-func (lsb *Lib) searchGetAllPages(q string) ([]LibbySearchResponseItem, error) {
+func (lsb *Lib) searchGetAllPagesUntilMax(q string, maxResults int) ([]LibbySearchResponseItem, error) {
 	results, links, err := lsb.singlePageSearchRequest(q, 1, maxPageSize)
 	if err != nil {
 		return nil, err
 	}
 	for {
-		if links.Next != nil {
+		if len(results) < maxResults && links.Next != nil {
 			intermediateResults, intermediateLinks, err := lsb.singlePageSearchRequest(q, links.Next.Page, maxPageSize)
 			if err != nil {
 				return nil, err
 			}
-			log.Printf("intermediate links: %v", intermediateLinks.Self.Page)
 			links = intermediateLinks
 			results = append(results, intermediateResults...)
+
 			continue
 		}
 		break
+	}
+	if len(results) == maxResults {
+		return results, nil
+	}
+	if len(results) > maxResults {
+		results = results[:maxResults]
+		return results, nil
 	}
 	return results, nil
 }
@@ -135,7 +142,7 @@ func (lsb *Lib) singlePageSearchRequest(q string, pageNum int, pageSize int) ([]
 	if err != nil {
 		return nil, nil, err
 	}
-	log.Printf("raw body: %v", string(rawBody))
+	//log.Printf("raw body: %v", string(rawBody))
 	var data libbySearchResponse
 	err = json.NewDecoder(bytes.NewReader(rawBody)).Decode(&data)
 	if err != nil {
