@@ -30,6 +30,11 @@ var constantSearchQueryParams = url.Values{
 	},
 }
 
+// interface to allow test mocks
+type HttpClient interface {
+	Do(req *http.Request) (*http.Response, error)
+}
+
 type LibbySearchResponseItem struct {
 	Title             string                  `json:"title"`                // short title
 	SortTitle         string                  `json:"sortTitle"`            // full title of multi-phrase
@@ -46,7 +51,7 @@ type LibbySearchResponseItem struct {
 type Lib struct {
 	LibID            string
 	librarySearchURL string
-	httpClient       *http.Client
+	httpClient       HttpClient
 }
 
 type libbySearchResponseLinks struct {
