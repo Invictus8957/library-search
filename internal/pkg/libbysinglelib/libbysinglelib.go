@@ -9,6 +9,7 @@ import (
 	"net/http"
 	"net/url"
 	"strconv"
+	"strings"
 	"time"
 )
 
@@ -79,7 +80,6 @@ func NewLibbySingleLib(libraryID string) *Lib {
 }
 
 func (lsb *Lib) Search(q string, maxResults int) ([]LibbySearchResponseItem, error) {
-	log.Println("Beginning top levelo single lib search.")
 	return lsb.searchGetAllPagesUntilMax(q, maxResults)
 }
 
@@ -123,14 +123,24 @@ func (lsb *Lib) singlePageSearchRequest(q string, pageNum int, pageSize int) ([]
 	queryVals := r.URL.Query()
 	// add all the constant vals
 	for k := range constantSearchQueryParams {
-		for v := range constantSearchQueryParams {
-			queryVals.Add(k, v)
+		var sb strings.Builder // the api uses a comma-separated string as opposed to fmt=x&fmt=y
+		for i, v := range constantSearchQueryParams[k] {
+			sb.WriteString(v)
+			if i != len(constantSearchQueryParams[k])-1 {
+				sb.WriteString(",")
+			}
 		}
+		queryVals.Add(k, sb.String())
 	}
 	queryVals.Add("query", q)
 	queryVals.Add(pageNumberParamName, strconv.Itoa(pageNum))
 	queryVals.Add(pageSizeParamName, strconv.Itoa(pageSize))
-	log.Printf("query vals: %v", queryVals)
+
+	// the api doesn't like encoded commas in the query string
+	// so we have to hack around it
+	qStr := queryVals.Encode()
+	r.URL.RawQuery = strings.ReplaceAll(qStr, "%2C", ",")
+	log.Printf("query string: %s\n", r.URL.RawQuery)
 
 	resp, err := lsb.httpClient.Do(r)
 	if err != nil {
